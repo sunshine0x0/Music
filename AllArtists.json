@@ -1,0 +1,28 @@
+{
+  "Update": "0",
+  "Artists": "1",
+  "AllArtists": [
+    {
+      "ArtistName": "Doja Cat",
+      "Color1": "#614A8D",
+      "Color2": "#9F96C3",
+      "Albums": [
+        {
+          "AlbumName": "Jealous Type",
+          "ReleaseDate": "Latest Release",
+          "Type": "Single",
+          "Tracks": [
+            {
+              "ID": "1",
+              "TrackName": "Jealous Type",
+              "ArtistName": "Doja Cat",
+              "AlbumName": "Jealous Type",
+              "Duration": "02:44",
+              "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja Cat/Jealous Type/Jealous Type.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
