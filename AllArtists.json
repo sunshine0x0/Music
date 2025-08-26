@@ -13,6 +13,8 @@
           "ReleaseDate": "Latest Release",
           "Type": "Single",
           "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
+          "Color1": "#614A8D",
+          "Color2": "#9F96C3",
           "Tracks": [
             {
               "ID": "1",
