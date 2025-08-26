@@ -3,7 +3,6 @@
     "Artists": "1",
     "AllArtists": [
         {
-<<<<<<< HEAD
             "ArtistName": "Doja Cat",
             "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpg",
             "Color1": "#614A8D",
@@ -212,7 +211,6 @@
                     ]
                 }
             ]
-=======
           "AlbumName": "Jealous Type",
           "ReleaseDate": "Latest Release",
           "Type": "Single",
@@ -229,7 +227,6 @@
               "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja Cat/Jealous Type/Jealous Type.mp3"
             }
           ]
->>>>>>> a2c166214538952bc8009df07e8a57ffa2c553bc
         }
     ]
 }
