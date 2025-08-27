@@ -26,6 +26,128 @@
                     ]
                 },
                 {
+                    "AlbumName": "Vie",
+                    "ReleaseDate": "Releasing on September 26, 2025",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
+                    "Color1": "#B62022",
+                    "Color2": "#5D1112",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Track 1",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%201.mp3"
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Jealous Type",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Jealous%20Type.mp3"
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Track 2",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%202.mp3"
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Track 3",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%203.mp3"
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Track 4",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%204.mp3"
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Track 5",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%205.mp3"
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Track 6",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%206.mp3"
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Track 7",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%207.mp3"
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Track 8",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%208.mp3"
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Track 9",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%209.mp3"
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Track 10",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2010.mp3"
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Track 11",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2011.mp3"
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Track 12",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2012.mp3"
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "Track 13",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2013.mp3"
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "Track 14",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2014.mp3"
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "Track 15",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2015.mp3"
+                        }
+                    ]
+                },
+                {
                     "AlbumName": "Soundcloud Songs",
                     "ReleaseDate": "2022",
                     "Type": "EP",
