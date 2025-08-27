@@ -328,6 +328,247 @@
                             "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/Manchild.mp3"
                         }
                     ]
+                },
+                {
+                    "AlbumName": "Singular Act II",
+                    "ReleaseDate": "2019",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/cover.jpg",
+                    "Color1": "#101010",
+                    "Color2": "#74503B",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "In My Bed",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/In%20My%20Bed.mp3"
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Pushing 20",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Pushing%2020.mp3"
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "I Can't Stop Me",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I%20Can't%20Stop%20Me.mp3"
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "I'm Fakin",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I'm%20Fakin.mp3"
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Take Off All Your Cool",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20Off%20All%20Your%20Cool.mp3"
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Tell Em",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Tell%20Em.mp3"
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Exhale",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Exhale.mp3"
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Take You Back",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20You%20Back.mp3"
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Looking at Me",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act II",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Looking%20at%20Me.mp3"
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Singular Act I",
+                    "ReleaseDate": "2018",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
+                    "Color1": "#AE956B",
+                    "Color2": "#384644",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Almost Love",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Almost%20Love.mp3"
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Paris",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Paris.mp3"
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Hold Tight",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Hold%20Tight.mp3"
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Sue Me",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Sue%20Me.mp3"
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "prfct",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/prfct.mp3"
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Bad Time",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Bad%20Time.mp3"
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Mona Lisa",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Mona%20Lisa.mp3"
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Diamonds Are Forever",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Singular Act I",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Diamonds%20Are%20Forever.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Addison Rae",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/AddisonRae.png",
+            "Color1": "#FCFFA9",
+            "Color2": "#FFBA00",
+            "Albums": [
+                {
+                    "AlbumName": "Addison",
+                    "ReleaseDate": "Latest Release",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/cover.png",
+                    "Color1": "#FCFFA9",
+                    "Color2": "#FFBA00",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "New York",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/New%20York.mp3"
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Diet Pepsi",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Diet%20Pepsi.mp3"
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Money is Everything",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Money%20is%20Everything.mp3"
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Aquamarine",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Aquamarine.mp3"
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Lost & Found",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Lost%20&%20Found.mp3"
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "High Fashion",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/High%20Fashion.mp3"
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Summer Forever",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Summer%20Forever.mp3"
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "In The Rain",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/In%20The%20Rain.mp3"
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Fame is a Gun",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Fame%20is%20a%20Gun.mp3"
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Times Like These",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Times%20Like%20These.mp3"
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Life's No Fun Through Clear Waters",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Life's%20No%20Fun%20Through%20Clear%20Waters.mp3"
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Headphones On",
+                            "ArtistName": "Addison Rae",
+                            "AlbumName": "Addison",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Headphones%20On.mp3"
+                        }
+                    ]
                 }
             ]
         }
