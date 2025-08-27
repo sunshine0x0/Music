@@ -36,11 +36,11 @@
                     "Tracks": [
                         {
                             "ID": 1,
-                            "TrackName": "Cards",
+                            "TrackName": "Track 1",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
                             "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Cards.mp3",
-                            "Unreleased": 0
+                            "Unreleased": 1
                         },
                         {
                             "ID": 2,
