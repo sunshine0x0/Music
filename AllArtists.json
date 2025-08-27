@@ -21,7 +21,8 @@
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Jealous Type",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.mp3",
+                            "Unreleased": 0
                         }
                     ]
                 },
@@ -38,105 +39,120 @@
                             "TrackName": "Track 1",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%201.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%201.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 2,
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Jealous%20Type.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Jealous%20Type.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 3,
                             "TrackName": "Track 3",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%203.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%203.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 4,
                             "TrackName": "Track 4",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%204.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%204.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 5,
                             "TrackName": "Track 5",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%205.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%205.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 6,
                             "TrackName": "Track 6",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%206.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%206.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 7,
                             "TrackName": "Track 7",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%207.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%207.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 8,
                             "TrackName": "Track 8",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%208.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%208.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 9,
                             "TrackName": "Track 9",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%209.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%209.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 10,
                             "TrackName": "Track 10",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2010.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2010.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 11,
                             "TrackName": "Track 11",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2011.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2011.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 12,
                             "TrackName": "Track 12",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2012.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2012.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 13,
                             "TrackName": "Track 13",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2013.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2013.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 14,
                             "TrackName": "Track 14",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2014.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2014.mp3",
+                            "Unreleased": 1
                         },
                         {
                             "ID": 15,
                             "TrackName": "Track 15",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2015.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Track%2015.mp3",
+                            "Unreleased": 1
                         }
                     ]
                 },
@@ -153,175 +169,200 @@
                             "TrackName": "What U Wanting",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/What%20U%20Wanting.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/What%20U%20Wanting.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 2,
                             "TrackName": "Crush",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Crush.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Crush.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 3,
                             "TrackName": "Daddy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Daddy.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Daddy.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 4,
                             "TrackName": "Generous",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Generous.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Generous.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 5,
                             "TrackName": "Run",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Run.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Run.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 6,
                             "TrackName": "Say No More",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Say%20No%20More.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Say%20No%20More.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 7,
                             "TrackName": "Tight",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Tight.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Tight.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 8,
                             "TrackName": "Up",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Up.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Up.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 9,
                             "TrackName": "Busty",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Busty.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Busty.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 10,
                             "TrackName": "Come",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Come.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Come.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 11,
                             "TrackName": "Doctor",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Doctor.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Doctor.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 12,
                             "TrackName": "Lonely",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Lonely.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Lonely.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 13,
                             "TrackName": "Ring",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Ring.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Ring.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 14,
                             "TrackName": "Sucker Punch",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Sucker%20Punch.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Sucker%20Punch.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 15,
                             "TrackName": "Wrong Queen",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Wrong%20Queen.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Wrong%20Queen.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 16,
                             "TrackName": "u w u",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/u%20w%20u.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/u%20w%20u.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 17,
                             "TrackName": "Get Loose",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Get%20Loose.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Get%20Loose.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 18,
                             "TrackName": "Lie Down",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Lie%20Down.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Lie%20Down.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 19,
                             "TrackName": "Muffin Man",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Muffin%20Man.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Muffin%20Man.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 20,
                             "TrackName": "Nintendhoe",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Nintendhoe.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Nintendhoe.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 21,
                             "TrackName": "Popping",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Popping.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Popping.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 22,
                             "TrackName": "Somethin New",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Somethin%20New.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Somethin%20New.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 23,
                             "TrackName": "Spoiled",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Spoiled.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Spoiled.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 24,
                             "TrackName": "Touch Me",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Touch%20Me.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Touch%20Me.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 25,
                             "TrackName": "Wet Dreamz",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Wet%20Dreamz.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Soundcloud%20Songs/Wet%20Dreamz.mp3",
+                            "Unreleased": 0
                         }
                     ]
                 }
@@ -333,100 +374,6 @@
             "Color1": "#FCC0B1",
             "Color2": "#B8885D",
             "Albums": [
-                {
-                    "AlbumName": "Man's Best Friend",
-                    "ReleaseDate": "Latest Release",
-                    "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
-                    "Color1": "#FCC0B1",
-                    "Color2": "#B8885D",
-                    "Tracks": [
-                        {
-                            "ID": 1,
-                            "TrackName": "Manchild",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Manchild.mp3"
-                        },
-                        {
-                            "ID": 2,
-                            "TrackName": "Tears",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Tears.mp3"
-                        },
-                        {
-                            "ID": 3,
-                            "TrackName": "My Man on Willpower",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/My%20Man%20on%20Willpower.mp3"
-                        },
-                        {
-                            "ID": 4,
-                            "TrackName": "Sugar Talking",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Sugar%20Talking.mp3"
-                        },
-                        {
-                            "ID": 5,
-                            "TrackName": "We Almost Broke Up Again Last Night",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/We%20Almost%20Broke%20Up%20Again%20Last%20Night.mp3"
-                        },
-                        {
-                            "ID": 6,
-                            "TrackName": "Nobody's Son",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Nobody's%20Son.mp3"
-                        },
-                        {
-                            "ID": 7,
-                            "TrackName": "Never Getting Laid",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Never%20Getting%20Laid.mp3"
-                        },
-                        {
-                            "ID": 8,
-                            "TrackName": "When Did You Get Hot",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/When%20Did%20You%20Get%20Hot.mp3"
-                        },
-                        {
-                            "ID": 9,
-                            "TrackName": "Go Go Juice",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Go%20Go%20Juice.mp3"
-                        },
-                        {
-                            "ID": 10,
-                            "TrackName": "Don't Worry I'll Make You Worry",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Don't%20Worry%20I'll%20Make%20You%20Worry.mp3"
-                        },
-                        {
-                            "ID": 11,
-                            "TrackName": "House Tour",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/House%20Tour.mp3"
-                        },
-                        {
-                            "ID": 12,
-                            "TrackName": "Goodbye",
-                            "ArtistName": "Sabrina Carpenter",
-                            "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.mp3"
-                        }
-                    ]
-                },
                 {
                     "AlbumName": "Manchild",
                     "ReleaseDate": "2025",
@@ -440,7 +387,114 @@
                             "TrackName": "Manchild",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Manchild",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/Manchild.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/Manchild.mp3",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Man's Best Friend",
+                    "ReleaseDate": "Releasing on August 29, 2025",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
+                    "Color1": "#FCC0B1",
+                    "Color2": "#B8885D",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Manchild",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Manchild.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Tears",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Tears.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "My Man on Willpower",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/My%20Man%20on%20Willpower.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Sugar Talking",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Sugar%20Talking.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "We Almost Broke Up Again Last Night",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/We%20Almost%20Broke%20Up%20Again%20Last%20Night.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Nobody's Son",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Nobody's%20Son.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Never Getting Laid",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Never%20Getting%20Laid.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "When Did You Get Hot",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/When%20Did%20You%20Get%20Hot.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Go Go Juice",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Go%20Go%20Juice.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Don't Worry I'll Make You Worry",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Don't%20Worry%20I'll%20Make%20You%20Worry.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "House Tour",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/House%20Tour.mp3",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Goodbye",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.mp3",
+                            "Unreleased": 1
                         }
                     ]
                 },
@@ -457,63 +511,72 @@
                             "TrackName": "In My Bed",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/In%20My%20Bed.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/In%20My%20Bed.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 2,
                             "TrackName": "Pushing 20",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Pushing%2020.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Pushing%2020.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 3,
                             "TrackName": "I Can't Stop Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I%20Can't%20Stop%20Me.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I%20Can't%20Stop%20Me.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 4,
                             "TrackName": "I'm Fakin",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I'm%20Fakin.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I'm%20Fakin.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 5,
                             "TrackName": "Take Off All Your Cool",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20Off%20All%20Your%20Cool.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20Off%20All%20Your%20Cool.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 6,
                             "TrackName": "Tell Em",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Tell%20Em.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Tell%20Em.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 7,
                             "TrackName": "Exhale",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Exhale.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Exhale.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 8,
                             "TrackName": "Take You Back",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20You%20Back.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20You%20Back.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 9,
                             "TrackName": "Looking at Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Looking%20at%20Me.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Looking%20at%20Me.mp3",
+                            "Unreleased": 0
                         }
                     ]
                 },
@@ -530,56 +593,64 @@
                             "TrackName": "Almost Love",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Almost%20Love.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Almost%20Love.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 2,
                             "TrackName": "Paris",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Paris.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Paris.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 3,
                             "TrackName": "Hold Tight",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Hold%20Tight.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Hold%20Tight.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 4,
                             "TrackName": "Sue Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Sue%20Me.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Sue%20Me.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 5,
                             "TrackName": "prfct",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/prfct.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/prfct.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 6,
                             "TrackName": "Bad Time",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Bad%20Time.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Bad%20Time.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 7,
                             "TrackName": "Mona Lisa",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Mona%20Lisa.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Mona%20Lisa.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 8,
                             "TrackName": "Diamonds Are Forever",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Diamonds%20Are%20Forever.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Diamonds%20Are%20Forever.mp3",
+                            "Unreleased": 0
                         }
                     ]
                 }
@@ -604,84 +675,96 @@
                             "TrackName": "New York",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/New%20York.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/New%20York.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 2,
                             "TrackName": "Diet Pepsi",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Diet%20Pepsi.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Diet%20Pepsi.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 3,
                             "TrackName": "Money is Everything",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Money%20is%20Everything.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Money%20is%20Everything.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 4,
                             "TrackName": "Aquamarine",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Aquamarine.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Aquamarine.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 5,
                             "TrackName": "Lost & Found",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Lost%20&%20Found.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Lost%20&%20Found.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 6,
                             "TrackName": "High Fashion",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/High%20Fashion.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/High%20Fashion.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 7,
                             "TrackName": "Summer Forever",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Summer%20Forever.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Summer%20Forever.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 8,
                             "TrackName": "In The Rain",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/In%20The%20Rain.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/In%20The%20Rain.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 9,
                             "TrackName": "Fame is a Gun",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Fame%20is%20a%20Gun.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Fame%20is%20a%20Gun.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 10,
                             "TrackName": "Times Like These",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Times%20Like%20These.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Times%20Like%20These.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 11,
                             "TrackName": "Life's No Fun Through Clear Waters",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Life's%20No%20Fun%20Through%20Clear%20Waters.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Life's%20No%20Fun%20Through%20Clear%20Waters.mp3",
+                            "Unreleased": 0
                         },
                         {
                             "ID": 12,
                             "TrackName": "Headphones On",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Headphones%20On.mp3"
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Headphones%20On.mp3",
+                            "Unreleased": 0
                         }
                     ]
                 }
