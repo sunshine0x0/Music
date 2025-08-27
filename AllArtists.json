@@ -211,6 +211,125 @@
                     ]
                 }
             ]
+        },
+        {
+            "ArtistName": "Sabrina Carpenter",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man'sBestFriend.jpg",
+            "Color1": "#FCC0B1",
+            "Color2": "#B8885D",
+            "Albums": [
+                {
+                    "AlbumName": "Man's Best Friend",
+                    "ReleaseDate": "Latest Release",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
+                    "Color1": "#FCC0B1",
+                    "Color2": "#B8885D",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Manchild",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Manchild.mp3"
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Tears",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Tears.mp3"
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "My Man on Willpower",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/My%20Man%20on%20Willpower.mp3"
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Sugar Talking",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Sugar%20Talking.mp3"
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "We Almost Broke Up Again Last Night",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/We%20Almost%20Broke%20Up%20Again%20Last%20Night.mp3"
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Nobody's Son",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Nobody's%20Son.mp3"
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Never Getting Laid",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Never%20Getting%20Laid.mp3"
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "When Did You Get Hot",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/When%20Did%20You%20Get%20Hot.mp3"
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Go Go Juice",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Go%20Go%20Juice.mp3"
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Don't Worry I'll Make You Worry",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Don't%20Worry%20I'll%20Make%20You%20Worry.mp3"
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "House Tour",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/House%20Tour.mp3"
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Goodbye",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.mp3"
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Manchild",
+                    "ReleaseDate": "2025",
+                    "Type": "Single",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/cover.png",
+                    "Color1": "#6F380E",
+                    "Color2": "#C99124",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Manchild",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Manchild",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/Manchild.mp3"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
