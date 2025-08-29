@@ -477,6 +477,14 @@
                             "AlbumName": "Man's Best Friend",
                             "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.mp3",
                             "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Such a Funny Way (Bonus)",
+                            "ArtistName": "Sabrina Carpenter",
+                            "AlbumName": "Man's Best Friend",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Such%20a%20Funny%20Way%20(Bonus).mp3",
+                            "Unreleased": 0
                         }
                     ]
                 },
