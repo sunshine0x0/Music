@@ -777,6 +777,322 @@
                     ]
                 }
             ]
+        },
+        {
+            "ArtistName": "Ariana Grande",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/ArianaGrande.jpg",
+            "Color1": "#AD7139",
+            "Color2": "#211510",
+            "Albums": [
+                {
+                    "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                    "ReleaseDate": "Latest Release",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Cover.jpg",
+                    "Color1": "#BA9066",
+                    "Color2": "#735139",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "intro (end of the world) - extended",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//intro%20(end%20of%20the%20world)%20-%20extended.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "bye",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//bye.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "don't wanna break up again",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//don't%20wanna%20break%20up%20again.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Saturn Returns Interlude",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//Saturn%20Returns%20Interlude.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "eternal sunshine",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//eternal%20sunshine.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "supernatural",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//supernatural.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "true story",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//true%20story.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "the boy is mine",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//the%20boy%20is%20mine.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "yes, and?",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//yes,%20and.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "we can't be friends (wait for your love)",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//we%20can't%20be%20friends%20(wait%20for%20your%20love).mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "i wish i hated you",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//i%20wish%20i%20hated%20you.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "imperfect for you",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//imperfect%20for%20you.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "ordinary things (feat. Nonna)",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//ordinary%20things%20(feat.%20Nonna).mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "twilight zone",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//twilight%20zone.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "warm",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//warm.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "dandelion",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//dandelion.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 17,
+                            "TrackName": "past life",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//past%20life.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 18,
+                            "TrackName": "Hampstead",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "eternal sunshine deluxe: brighter days ahead",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead//Hampstead.mp3",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Positions (Deluxe)",
+                    "ReleaseDate": "2021",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/cover.jpg",
+                    "Color1": "#7C9490",
+                    "Color2": "#D6CFC7",
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "shut up",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/shut%20up.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "34+35",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/34+35.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "motive (with Doja Cat)",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/motive%20(with%20Doja%20Cat).mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "just like magic",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/just%20like%20magic.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "off the table (with The Weeknd)",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/off%20the%20table%20(with%20The%20Weeknd).mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "six thirty",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/six%20thirty.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "safety net (feat. Ty Dolla $ign)",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/safety%20net%20(feat.%20Ty%20Dolla%20$ign).mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "my hair",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/my%20hair.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "nasty",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/nasty.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "west side",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/west%20side.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "love language",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/love%20language.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "positions",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/positions.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "obvious",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/obvious.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "pov",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/pov.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "someone like u - interlude",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/someone%20like%20u%20-%20interlude.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "test drive",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/test%20drive.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 17,
+                            "TrackName": "worst behavior",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/worst%20behavior.mp3",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 18,
+                            "TrackName": "main thing",
+                            "ArtistName": "Ariana Grande",
+                            "AlbumName": "Positions (Deluxe)",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/main%20thing.mp3",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
