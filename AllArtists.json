@@ -3,12 +3,14 @@
     "Artists": "1",
     "AllArtists": [
         {
+            "ArtistID": 0,
             "ArtistName": "Doja Cat",
             "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpg",
             "Color1": "#614A8D",
             "Color2": "#9F96C3",
             "Albums": [
                 {
+                    "AlbumID": 0,
                     "AlbumName": "Jealous Type",
                     "ReleaseDate": "Latest Release",
                     "Type": "Single",
@@ -17,7 +19,7 @@
                     "Color2": "#9F96C3",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Jealous Type",
@@ -27,6 +29,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 1,
                     "AlbumName": "Vie",
                     "ReleaseDate": "Releasing on September 26, 2025",
                     "Type": "Album",
@@ -35,7 +38,7 @@
                     "Color2": "#86D6FF",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "Cards",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -43,7 +46,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -51,7 +54,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "AAAHH MEN!",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -59,7 +62,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Couples Therapy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -67,7 +70,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "Gorgeous",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -75,7 +78,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "Stranger",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -83,7 +86,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "All Mine",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -91,7 +94,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "Take Me Dancing",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -99,7 +102,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "Lipstain",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -107,7 +110,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "Silly! Fun!",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -115,7 +118,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "Acts of Service",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -123,7 +126,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "Make it Up",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -131,7 +134,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 13,
+                            "ID": 12,
                             "TrackName": "Happy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -139,7 +142,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 14,
+                            "ID": 13,
                             "TrackName": "One More Time",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -147,7 +150,7 @@
                             "Unreleased": 1
                         },
                         {
-                            "ID": 15,
+                            "ID": 14,
                             "TrackName": "Come Back",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
@@ -157,6 +160,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 2,
                     "AlbumName": "Soundcloud Songs",
                     "ReleaseDate": "2022",
                     "Type": "EP",
@@ -165,7 +169,7 @@
                     "Color2": "#FFBCD7",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "What U Wanting",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -173,7 +177,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Crush",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -181,7 +185,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "Daddy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -189,7 +193,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Generous",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -197,7 +201,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "Run",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -205,7 +209,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "Say No More",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -213,7 +217,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "Tight",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -221,7 +225,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "Up",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -229,7 +233,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "Busty",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -237,7 +241,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "Come",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -245,7 +249,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "Doctor",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -253,7 +257,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "Lonely",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -261,7 +265,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 13,
+                            "ID": 12,
                             "TrackName": "Ring",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -269,7 +273,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 14,
+                            "ID": 13,
                             "TrackName": "Sucker Punch",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -277,7 +281,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 15,
+                            "ID": 14,
                             "TrackName": "Wrong Queen",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -285,7 +289,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 16,
+                            "ID": 15,
                             "TrackName": "u w u",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -293,7 +297,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 17,
+                            "ID": 16,
                             "TrackName": "Get Loose",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -301,7 +305,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 18,
+                            "ID": 17,
                             "TrackName": "Lie Down",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -309,7 +313,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 19,
+                            "ID": 18,
                             "TrackName": "Muffin Man",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -317,7 +321,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 20,
+                            "ID": 19,
                             "TrackName": "Nintendhoe",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -325,7 +329,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 21,
+                            "ID": 20,
                             "TrackName": "Popping",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -333,7 +337,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 22,
+                            "ID": 21,
                             "TrackName": "Somethin New",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -341,7 +345,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 23,
+                            "ID": 22,
                             "TrackName": "Spoiled",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -349,7 +353,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 24,
+                            "ID": 23,
                             "TrackName": "Touch Me",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -357,7 +361,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 25,
+                            "ID": 24,
                             "TrackName": "Wet Dreamz",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Soundcloud Songs",
@@ -369,12 +373,14 @@
             ]
         },
         {
+            "ArtistID": 1,
             "ArtistName": "Sabrina Carpenter",
             "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man'sBestFriend.jpg",
             "Color1": "#FCC0B1",
             "Color2": "#B8885D",
             "Albums": [
                 {
+                    "AlbumID": 0,
                     "AlbumName": "Man's Best Friend",
                     "ReleaseDate": "Latest Release",
                     "Type": "Album",
@@ -383,7 +389,7 @@
                     "Color2": "#B8885D",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "Manchild",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -391,7 +397,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Tears",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -399,7 +405,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "My Man on Willpower",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -407,7 +413,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Sugar Talking",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -415,7 +421,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "We Almost Broke Up Again Last Night",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -423,7 +429,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "Nobody's Son",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -431,7 +437,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "Never Getting Laid",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -439,7 +445,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "When Did You Get Hot?",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -447,7 +453,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "Go Go Juice",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -455,7 +461,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "Don't Worry I'll Make You Worry",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -463,7 +469,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "House Tour",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -471,7 +477,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "Goodbye",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -479,7 +485,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 13,
+                            "ID": 12,
                             "TrackName": "Such a Funny Way (Bonus)",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
@@ -489,6 +495,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 1,
                     "AlbumName": "Manchild",
                     "ReleaseDate": "2025",
                     "Type": "Single",
@@ -497,7 +504,7 @@
                     "Color2": "#C99124",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "Manchild",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Manchild",
@@ -507,6 +514,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 2,
                     "AlbumName": "Singular Act II",
                     "ReleaseDate": "2019",
                     "Type": "Album",
@@ -515,7 +523,7 @@
                     "Color2": "#74503B",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "In My Bed",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -523,7 +531,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Pushing 20",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -531,7 +539,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "I Can't Stop Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -539,7 +547,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "I'm Fakin",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -547,7 +555,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "Take Off All Your Cool",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -555,7 +563,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "Tell Em",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -563,7 +571,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "Exhale",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -571,7 +579,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "Take You Back",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -579,7 +587,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "Looking at Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
@@ -589,6 +597,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 3,
                     "AlbumName": "Singular Act I",
                     "ReleaseDate": "2018",
                     "Type": "Album",
@@ -597,7 +606,7 @@
                     "Color2": "#384644",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "Almost Love",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -605,7 +614,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Paris",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -613,7 +622,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "Hold Tight",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -621,7 +630,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Sue Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -629,7 +638,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "prfct",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -637,7 +646,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "Bad Time",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -645,7 +654,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "Mona Lisa",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -653,7 +662,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "Diamonds Are Forever",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
@@ -665,12 +674,14 @@
             ]
         },
         {
+            "ArtistID": 2,
             "ArtistName": "Addison Rae",
             "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/AddisonRae.jpg",
             "Color1": "#FCFFA9",
             "Color2": "#FFBA00",
             "Albums": [
                 {
+                    "AlbumID": 0,
                     "AlbumName": "Addison",
                     "ReleaseDate": "Latest Release",
                     "Type": "Album",
@@ -679,7 +690,7 @@
                     "Color2": "#FFBA00",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "New York",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -687,7 +698,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "Diet Pepsi",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -695,7 +706,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "Money is Everything",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -703,7 +714,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Aquamarine",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -711,7 +722,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "Lost & Found",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -719,7 +730,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "High Fashion",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -727,7 +738,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "Summer Forever",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -735,7 +746,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "In The Rain",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -743,7 +754,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "Fame is a Gun",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -751,7 +762,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "Times Like These",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -759,7 +770,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "Life's No Fun Through Clear Waters",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -767,7 +778,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "Headphones On",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
@@ -779,12 +790,14 @@
             ]
         },
         {
+            "ArtistID": 3,
             "ArtistName": "Ariana Grande",
             "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/ArianaGrande.jpg",
             "Color1": "#AD7139",
             "Color2": "#211510",
             "Albums": [
                 {
+                    "AlbumID": 0,
                     "AlbumName": "eternal sunshine deluxe: brighter days ahead",
                     "ReleaseDate": "Latest Release",
                     "Type": "Album",
@@ -793,7 +806,7 @@
                     "Color2": "#735139",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "intro (end of the world) [extended]",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -801,7 +814,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "bye",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -809,7 +822,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "don't wanna break up again",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -817,7 +830,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "Saturn Returns Interlude",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -825,7 +838,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "eternal sunshine",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -833,7 +846,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "supernatural",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -841,7 +854,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "true story",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -849,7 +862,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "the boy is mine",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -857,7 +870,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "yes, and?",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -865,7 +878,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "we can't be friends (wait for your love)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -873,7 +886,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "i wish i hated you",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -881,7 +894,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "imperfect for you",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -889,7 +902,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 13,
+                            "ID": 12,
                             "TrackName": "ordinary things (feat. Nonna)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -897,7 +910,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 14,
+                            "ID": 13,
                             "TrackName": "twilight zone",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -905,7 +918,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 15,
+                            "ID": 14,
                             "TrackName": "warm",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -913,7 +926,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 16,
+                            "ID": 15,
                             "TrackName": "dandelion",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -921,7 +934,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 17,
+                            "ID": 16,
                             "TrackName": "past life",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -929,7 +942,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 18,
+                            "ID": 17,
                             "TrackName": "Hampstead",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
@@ -939,6 +952,7 @@
                     ]
                 },
                 {
+                    "AlbumID": 1,
                     "AlbumName": "Positions (Deluxe)",
                     "ReleaseDate": "2021",
                     "Type": "Album",
@@ -947,7 +961,7 @@
                     "Color2": "#D6CFC7",
                     "Tracks": [
                         {
-                            "ID": 1,
+                            "ID": 0,
                             "TrackName": "shut up",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -955,7 +969,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 2,
+                            "ID": 1,
                             "TrackName": "34+35",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -963,7 +977,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 3,
+                            "ID": 2,
                             "TrackName": "motive (with Doja Cat)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -971,7 +985,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 4,
+                            "ID": 3,
                             "TrackName": "just like magic",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -979,7 +993,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 5,
+                            "ID": 4,
                             "TrackName": "off the table (with The Weeknd)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -987,7 +1001,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 6,
+                            "ID": 5,
                             "TrackName": "six thirty",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -995,7 +1009,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 7,
+                            "ID": 6,
                             "TrackName": "safety net (feat. Ty Dolla $ign)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1003,7 +1017,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 8,
+                            "ID": 7,
                             "TrackName": "my hair",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1011,7 +1025,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 9,
+                            "ID": 8,
                             "TrackName": "nasty",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1019,7 +1033,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 10,
+                            "ID": 9,
                             "TrackName": "west side",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1027,7 +1041,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 11,
+                            "ID": 10,
                             "TrackName": "love language",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1035,7 +1049,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 12,
+                            "ID": 11,
                             "TrackName": "positions",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1043,7 +1057,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 13,
+                            "ID": 12,
                             "TrackName": "obvious",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1051,7 +1065,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 14,
+                            "ID": 13,
                             "TrackName": "pov",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1059,7 +1073,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 15,
+                            "ID": 14,
                             "TrackName": "someone like u (interlude)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1067,7 +1081,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 16,
+                            "ID": 15,
                             "TrackName": "test drive",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1075,7 +1089,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 17,
+                            "ID": 16,
                             "TrackName": "34+35 (feat. Doja Cat & Megan Thee Stallion) [Remix]",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1083,7 +1097,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 18,
+                            "ID": 17,
                             "TrackName": "worst behavior",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
@@ -1091,7 +1105,7 @@
                             "Unreleased": 0
                         },
                         {
-                            "ID": 19,
+                            "ID": 18,
                             "TrackName": "main thing",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
