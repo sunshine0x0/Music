@@ -9,41 +9,14 @@
             "Color2": "#9F96C3",
             "Albums": [
                 {
-                    "AlbumName": "Jealous Type",
-                    "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
-                    "Color1": "#614A8D",
-                    "Color2": "#9F96C3",
-                    "Timer": {
-                        "ReleaseDate": "Latest Release",
-                        "Timer": false,
-                        "Year": 2025,
-                        "Month": 0,
-                        "Day": 0,
-                        "Hour": 0,
-                        "Minute": 0,
-                        "Second": 0
-                    },
-                    "Tracks": [
-                        {
-                            "ID": 1,
-                            "TrackName": "Jealous Type",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Jealous Type",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
-                            "Unreleased": 0
-                        }
-                    ]
-                },
-                {
                     "AlbumName": "Vie",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpeg",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
                     "Timer": {
-                        "ReleaseDate": "Releasing on September 26, 2025",
-                        "Timer": true,
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
                         "Year": 2025,
                         "Month": 9,
                         "Day": 26,
@@ -171,6 +144,33 @@
                             "AlbumName": "Vie",
                             "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Come%20Back.wav",
                             "Unreleased": 1
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Jealous Type",
+                    "Type": "Single",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
+                    "Color1": "#614A8D",
+                    "Color2": "#9F96C3",
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Jealous Type",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Jealous Type",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
+                            "Unreleased": 0
                         }
                     ]
                 }
