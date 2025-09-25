@@ -10,11 +10,20 @@
             "Albums": [
                 {
                     "AlbumName": "Jealous Type",
-                    "ReleaseDate": "Latest Release",
                     "Type": "Single",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
                     "Color1": "#614A8D",
                     "Color2": "#9F96C3",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -28,11 +37,20 @@
                 },
                 {
                     "AlbumName": "Vie",
-                    "ReleaseDate": "Releasing on September 26, 2025",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpeg",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
+                    "Timer": {
+                        "ReleaseDate": "Releasing on September 26, 2025",
+                        "Timer": true,
+                        "Year": 2025,
+                        "Month": 9,
+                        "Day": 26,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -166,11 +184,20 @@
             "Albums": [
                 {
                     "AlbumName": "Man's Best Friend",
-                    "ReleaseDate": "Latest Release",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
                     "Color1": "#FCC0B1",
                     "Color2": "#B8885D",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -280,11 +307,20 @@
                 },
                 {
                     "AlbumName": "Manchild",
-                    "ReleaseDate": "2025",
                     "Type": "Single",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/cover.jpg",
                     "Color1": "#6F380E",
                     "Color2": "#C99124",
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -298,11 +334,20 @@
                 },
                 {
                     "AlbumName": "Singular Act II",
-                    "ReleaseDate": "2019",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/cover.jpg",
                     "Color1": "#101010",
                     "Color2": "#74503B",
+                    "Timer": {
+                        "ReleaseDate": "2019",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -380,11 +425,20 @@
                 },
                 {
                     "AlbumName": "Singular Act I",
-                    "ReleaseDate": "2018",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/cover.jpg",
                     "Color1": "#AE956B",
                     "Color2": "#384644",
+                    "Timer": {
+                        "ReleaseDate": "2018",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -462,11 +516,20 @@
             "Albums": [
                 {
                     "AlbumName": "Addison",
-                    "ReleaseDate": "Latest Release",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/cover.jpg",
                     "Color1": "#FCFFA9",
                     "Color2": "#FFBA00",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -576,11 +639,20 @@
             "Albums": [
                 {
                     "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                    "ReleaseDate": "Latest Release",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Cover.jpg",
                     "Color1": "#BA9066",
                     "Color2": "#735139",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
@@ -730,11 +802,20 @@
                 },
                 {
                     "AlbumName": "Positions (Deluxe)",
-                    "ReleaseDate": "2021",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/cover.jpg",
                     "Color1": "#7C9490",
                     "Color2": "#D6CFC7",
+                    "Timer": {
+                        "ReleaseDate": "2021",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
                     "Tracks": [
                         {
                             "ID": 1,
