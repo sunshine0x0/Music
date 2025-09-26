@@ -4,9 +4,9 @@
     "AllArtists": [
         {
             "ArtistName": "Doja Cat",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpg",
-            "Color1": "#614A8D",
-            "Color2": "#9F96C3",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpeg",
+            "Color1": "#FFBD32",
+            "Color2": "#86D6FF",
             "Albums": [
                 {
                     "AlbumName": "Vie",
