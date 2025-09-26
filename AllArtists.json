@@ -4,14 +4,14 @@
     "AllArtists": [
         {
             "ArtistName": "Doja Cat",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpeg",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpg",
             "Color1": "#FFBD32",
             "Color2": "#86D6FF",
             "Albums": [
                 {
                     "AlbumName": "Vie",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpeg",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpg",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
                     "Timer": {
