@@ -4,7 +4,7 @@
     "AllArtists": [
         {
             "ArtistName": "Doja Cat",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/DojaCat.jpg",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/back.jpg",
             "Color1": "#FFBD32",
             "Color2": "#86D6FF",
             "Albums": [
@@ -178,7 +178,7 @@
         },
         {
             "ArtistName": "Sabrina Carpenter",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man'sBestFriend.jpg",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/back.jpg",
             "Color1": "#FCC0B1",
             "Color2": "#B8885D",
             "Albums": [
@@ -510,7 +510,7 @@
         },
         {
             "ArtistName": "Addison Rae",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/AddisonRae.jpg",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/back.jpg",
             "Color1": "#FCFFA9",
             "Color2": "#FFBA00",
             "Albums": [
@@ -633,7 +633,7 @@
         },
         {
             "ArtistName": "Ariana Grande",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/ArianaGrande.jpg",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/back.jpg",
             "Color1": "#AD7139",
             "Color2": "#211510",
             "Albums": [
