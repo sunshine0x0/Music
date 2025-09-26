@@ -1,5 +1,5 @@
 {
-    "Update": "RESET",
+    "Update": "1",
     "Artists": "1",
     "AllArtists": [
         {
@@ -967,6 +967,346 @@
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
                             "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/main%20thing.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Chase Atlantic",
+            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/back.jpg",
+            "Color1": "#76B0FF",
+            "Color2": "#B37AEF",
+            "Albums": [
+                {
+                    "AlbumName": "REMIND ME",
+                    "Type": "Single",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/cover.jpg",
+                    "Color1": "#B9CFEF",
+                    "Color2": "#E6F9FF",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "REMIND ME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "REMIND ME",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/REMIND%20ME.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/cover.jpg",
+                    "Color1": "#3381E9",
+                    "Color2": "#4A2FA1",
+                    "Timer": {
+                        "ReleaseDate": "Releasing on October 3rd, 2025",
+                        "Timer": true,
+                        "Year": 2025,
+                        "Month": 10,
+                        "Day": 2,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "FAVELA",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/FAVELA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "DIE FOR ME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/DIE%20FOR%20ME.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "RICOCHET",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/RICOCHET.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "YOU",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/YOU.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "DEMON TIME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/DEMON%20TIME.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "NIGHT CALLS",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/NIGHT%20CALLS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "DISCONNECTED",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/DISCONNECTED.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "HOURS LOST",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/HOURS%20LOST.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "MESS ME UP",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/MESS%20ME%20UP.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "AMY",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/AMY.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "DOUBT IT",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/DOUBT%20IT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "MAMACITA",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/MAMACITA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "DON'T LAUGH",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/DON'T%20LAUGH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "FACEDOWN",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/FACEDOWN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "Track 15",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/Track%2015.wav",
+                            "Unreleased": 1
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "REMIND ME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/REMIND%20ME.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 17,
+                            "TrackName": "Track 17",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/Track%2017.wav",
+                            "Unreleased": 1
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "FACEDOWN",
+                    "Type": "Single",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/FACEDOWN/cover.jpg",
+                    "Color1": "#5F1720",
+                    "Color2": "#B20165",
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "FACEDOWN",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "FACEDOWN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/FACEDOWN/FACEDOWN.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LOST IN HEAVEN",
+                    "Type": "Album",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/cover.jpg",
+                    "Color1": "#76B0FF",
+                    "Color2": "#B37AEF",
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 10,
+                        "Day": 2,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "FAVELA",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/FAVELA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "DIE FOR ME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DIE%20FOR%20ME.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "RICOCHET",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/RICOCHET.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "YOU",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/YOU.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "DEMON TIME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DEMON%20TIME.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "NIGHT CALLS",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/NIGHT%20CALLS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "DISCONNECTED",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DISCONNECTED.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "HOURS LOST",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/HOURS%20LOST.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "MESS ME UP",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MESS%20ME%20UP.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "AMY",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/AMY.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "DOUBT IT",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DOUBT%20IT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "MAMACITA",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MAMACITA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "DON'T LAUGH",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "LOST IN HEAVEN",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DON'T%20LAUGH.wav",
                             "Unreleased": 0
                         }
                     ]
