@@ -980,41 +980,14 @@
             "Color2": "#B37AEF",
             "Albums": [
                 {
-                    "AlbumName": "REMIND ME",
-                    "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/cover.jpg",
-                    "Color1": "#B9CFEF",
-                    "Color2": "#E6F9FF",
-                    "Timer": {
-                        "ReleaseDate": "Latest Release",
-                        "Timer": false,
-                        "Year": 2025,
-                        "Month": 0,
-                        "Day": 0,
-                        "Hour": 0,
-                        "Minute": 0,
-                        "Second": 0
-                    },
-                    "Tracks": [
-                        {
-                            "ID": 1,
-                            "TrackName": "REMIND ME",
-                            "ArtistName": "Chase Atlantic",
-                            "AlbumName": "REMIND ME",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/REMIND%20ME.wav",
-                            "Unreleased": 0
-                        }
-                    ]
-                },
-                {
                     "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
                     "Type": "Album",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/cover.jpg",
                     "Color1": "#ABDAF8",
                     "Color2": "#1EA0F4",
                     "Timer": {
-                        "ReleaseDate": "Releasing on October 3rd, 2025",
-                        "Timer": true,
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
                         "Year": 2025,
                         "Month": 10,
                         "Day": 2,
@@ -1137,10 +1110,10 @@
                         },
                         {
                             "ID": 15,
-                            "TrackName": "Track 15",
+                            "TrackName": "WARCRY",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/Track%2015.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/WARCRY.wav",
                             "Unreleased": 1
                         },
                         {
@@ -1153,11 +1126,38 @@
                         },
                         {
                             "ID": 17,
-                            "TrackName": "Track 17",
+                            "TrackName": "VICTORY LAP",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/Track%2017.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/VICTORY%20LAP.wav",
                             "Unreleased": 1
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "REMIND ME",
+                    "Type": "Single",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/cover.jpg",
+                    "Color1": "#B9CFEF",
+                    "Color2": "#E6F9FF",
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "REMIND ME",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "REMIND ME",
+                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/REMIND%20ME.wav",
+                            "Unreleased": 0
                         }
                     ]
                 },
