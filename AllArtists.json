@@ -985,8 +985,8 @@
         {
             "ArtistName": "Chase Atlantic",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/back.jpg",
-            "Color1": "#76B0FF",
-            "Color2": "#B37AEF",
+            "Color1": "#ABDAF8",
+            "Color2": "#1EA0F4",
             "Albums": [
                 {
                     "AlbumName": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
@@ -1201,14 +1201,14 @@
                     ]
                 },
                 {
-                    "AlbumName": "LOST IN HEAVEN",
+                    "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
                     "Type": "Album",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/cover.jpg",
-                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/cover.jpg",
+                    "AnimatedCoverURL": "",
                     "Color1": "#76B0FF",
                     "Color2": "#B37AEF",
                     "Timer": {
-                        "ReleaseDate": "2024",
+                        "ReleaseDate": "2022",
                         "Timer": false,
                         "Year": 2025,
                         "Month": 10,
@@ -1220,106 +1220,146 @@
                     "Tracks": [
                         {
                             "ID": 1,
-                            "TrackName": "FAVELA",
+                            "TrackName": "PARANOID",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/FAVELA.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/PARANOID.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 2,
-                            "TrackName": "DIE FOR ME",
+                            "TrackName": "PLEASEXANNY",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DIE%20FOR%20ME.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/PLEASEXANNY.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 3,
-                            "TrackName": "RICOCHET",
+                            "TrackName": "OUT THE ROOF",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/RICOCHET.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/OUT%20THE%20ROOF.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 4,
-                            "TrackName": "YOU",
+                            "TrackName": "SLIDE",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/YOU.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/SLIDE.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 5,
-                            "TrackName": "DEMON TIME",
+                            "TrackName": "BEAUTY IN DEATH",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DEMON%20TIME.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/BEAUTY%20IN%20DEATH.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 6,
-                            "TrackName": "NIGHT CALLS",
+                            "TrackName": "PLEASE STAND BY (feat. DE'WAYNE & Xavier Mayne)",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/NIGHT%20CALLS.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/PLEASE%20STAND%20BY%20(feat.%20DE'WAYNE%20&%20Xavier%20Mayne).wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 7,
-                            "TrackName": "DISCONNECTED",
+                            "TrackName": "ALEYUH",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DISCONNECTED.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/ALEYUH.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 8,
-                            "TrackName": "HOURS LOST",
+                            "TrackName": "MOLLY",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/HOURS%20LOST.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/MOLLY.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 9,
-                            "TrackName": "MESS ME UP (with Xavier Mayne)",
+                            "TrackName": "CALL ME BACK",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MESS%20ME%20UP%20(with%20Xavier%20Mayne).wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/CALL%20ME%20BACK.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 10,
-                            "TrackName": "AMY",
+                            "TrackName": "I THINK I'M LOST AGAIN",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/AMY.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/I%20THINK%20I'M%20LOST%20AGAIN.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 11,
-                            "TrackName": "DOUBT IT",
+                            "TrackName": "EMPTY",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DOUBT%20IT.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/EMPTY.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 12,
-                            "TrackName": "MAMACITA",
+                            "TrackName": "WASTED",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MAMACITA.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/WASTED.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 13,
-                            "TrackName": "DON'T LAUGH",
+                            "TrackName": "STRANGER THINGS",
                             "ArtistName": "Chase Atlantic",
-                            "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DON'T%20LAUGH.wav",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/STRANGER%20THINGS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "OHMAMI",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/OHMAMI.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "CHXSE",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/CHXSE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "ESCORT",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/ESCORT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 17,
+                            "TrackName": "COLD NIGHTS",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/COLD%20NIGHTS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 18,
+                            "TrackName": "OHMAMI (with Maggie Lindemann)",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%(DELUXE%20EDITION)/OHMAMI%20(with%20Maggie%20Lindemann).wav",
                             "Unreleased": 0
                         }
                     ]
