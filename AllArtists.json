@@ -1363,6 +1363,74 @@
                             "Unreleased": 0
                         }
                     ]
+                },
+                {
+                    "AlbumName": "DON'T TRY THIS",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#9E0014",
+                    "Color2": "#590715",
+                    "Timer": {
+                        "ReleaseDate": "2019",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 10,
+                        "Day": 2,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "WHAT U CALL THAT",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/WHAT%20U%20CALL%20THAT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "YOU TOO.",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/YOU%20TOO..wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "LIKE A ROCKSTAR",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LIKE%20A%20ROCKSTAR.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "DEVILISH",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/DEVILISH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "GREENGREENGREEN",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/GREENGREENGREEN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "LUST",
+                            "ArtistName": "Chase Atlantic",
+                            "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LUST.wav",
+                            "Unreleased": 0
+                        }
+                    ]
                 }
             ]
         }
