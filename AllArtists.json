@@ -649,8 +649,8 @@
                     "Type": "Album",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/cover.jpg",
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/animatedCover.mp4",
-                    "Color1": "#BA9066",
-                    "Color2": "#735139",
+                    "Color1": "#111717",
+                    "Color2": "#737E82",
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
