@@ -12,7 +12,7 @@
                     "AlbumName": "Vie",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/animatedCover.mp4",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
                     "Timer": {
@@ -188,7 +188,7 @@
                     "AlbumName": "Man's Best Friend",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/animatedCover.mp4",
                     "Color1": "#FCC0B1",
                     "Color2": "#B8885D",
                     "Timer": {
@@ -524,7 +524,7 @@
                     "AlbumName": "Addison",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/animatedCover.mp4",
                     "Color1": "#FCFFA9",
                     "Color2": "#FFBA00",
                     "Timer": {
@@ -647,8 +647,8 @@
                 {
                     "AlbumName": "eternal sunshine deluxe: brighter days ahead",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/cover.jpg",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/animatedCover.mp4",
                     "Color1": "#BA9066",
                     "Color2": "#735139",
                     "Timer": {
@@ -812,7 +812,7 @@
                     "AlbumName": "Positions (Deluxe)",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/animatedCover.mp4",
                     "Color1": "#7C9490",
                     "Color2": "#D6CFC7",
                     "Timer": {
@@ -1204,7 +1204,7 @@
                     "AlbumName": "LOST IN HEAVEN",
                     "Type": "Album",
                     "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/cover.jpg",
-                    "AnimatedCoverURL": "",
+                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/animatedCover.mp4",
                     "Color1": "#76B0FF",
                     "Color2": "#B37AEF",
                     "Timer": {
