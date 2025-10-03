@@ -4,15 +4,15 @@
     "AllArtists": [
         {
             "ArtistName": "Doja Cat",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/back.jpg",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/back.jpg",
             "Color1": "#FFBD32",
             "Color2": "#86D6FF",
             "Albums": [
                 {
                     "AlbumName": "Vie",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/animatedCover.mp4",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
                     "Timer": {
@@ -31,7 +31,7 @@
                             "TrackName": "Cards",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Cards.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Cards.wav",
                             "Unreleased": 0
                         },
                         {
@@ -39,7 +39,7 @@
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Jealous%20Type.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Jealous%20Type.wav",
                             "Unreleased": 0
                         },
                         {
@@ -47,7 +47,7 @@
                             "TrackName": "AAAHH MEN!",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/AAAHH%20MEN!.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/AAAHH%20MEN!.wav",
                             "Unreleased": 0
                         },
                         {
@@ -55,7 +55,7 @@
                             "TrackName": "Couples Therapy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Couples%20Therapy.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Couples%20Therapy.wav",
                             "Unreleased": 0
                         },
                         {
@@ -63,7 +63,7 @@
                             "TrackName": "Gorgeous",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Gorgeous.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Gorgeous.wav",
                             "Unreleased": 0
                         },
                         {
@@ -71,7 +71,7 @@
                             "TrackName": "Stranger",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Stranger.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Stranger.wav",
                             "Unreleased": 0
                         },
                         {
@@ -79,7 +79,7 @@
                             "TrackName": "All Mine",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/All%20Mine.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/All%20Mine.wav",
                             "Unreleased": 0
                         },
                         {
@@ -87,7 +87,7 @@
                             "TrackName": "Take Me Dancing (feat. SZA)",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Take%20Me%20Dancing%20(feat.%20SZA).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Take%20Me%20Dancing%20(feat.%20SZA).wav",
                             "Unreleased": 0
                         },
                         {
@@ -95,7 +95,7 @@
                             "TrackName": "Lipstain",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Lipstain.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Lipstain.wav",
                             "Unreleased": 0
                         },
                         {
@@ -103,7 +103,7 @@
                             "TrackName": "Silly! Fun!",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Silly!%20Fun!.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Silly!%20Fun!.wav",
                             "Unreleased": 0
                         },
                         {
@@ -111,7 +111,7 @@
                             "TrackName": "Acts of Service",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Acts%20of%20Service.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Acts%20of%20Service.wav",
                             "Unreleased": 0
                         },
                         {
@@ -119,7 +119,7 @@
                             "TrackName": "Make it Up",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Make%20it%20Up.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Make%20it%20Up.wav",
                             "Unreleased": 0
                         },
                         {
@@ -127,7 +127,7 @@
                             "TrackName": "Happy",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Happy.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Happy.wav",
                             "Unreleased": 0
                         },
                         {
@@ -135,7 +135,7 @@
                             "TrackName": "One More Time",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/One%20More%20Time.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/One%20More%20Time.wav",
                             "Unreleased": 0
                         },
                         {
@@ -143,7 +143,7 @@
                             "TrackName": "Come Back",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Vie",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Vie/Come%20Back.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Come%20Back.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -151,7 +151,7 @@
                 {
                     "AlbumName": "Jealous Type",
                     "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#614A8D",
                     "Color2": "#9F96C3",
@@ -171,7 +171,7 @@
                             "TrackName": "Jealous Type",
                             "ArtistName": "Doja Cat",
                             "AlbumName": "Jealous Type",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -180,15 +180,15 @@
         },
         {
             "ArtistName": "Sabrina Carpenter",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/back.jpg",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/back.jpg",
             "Color1": "#FCC0B1",
             "Color2": "#B8885D",
             "Albums": [
                 {
                     "AlbumName": "Man's Best Friend",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/animatedCover.mp4",
                     "Color1": "#FCC0B1",
                     "Color2": "#B8885D",
                     "Timer": {
@@ -207,7 +207,7 @@
                             "TrackName": "Manchild",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Manchild.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Manchild.wav",
                             "Unreleased": 0
                         },
                         {
@@ -215,7 +215,7 @@
                             "TrackName": "Tears",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Tears.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Tears.wav",
                             "Unreleased": 0
                         },
                         {
@@ -223,7 +223,7 @@
                             "TrackName": "My Man on Willpower",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/My%20Man%20on%20Willpower.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/My%20Man%20on%20Willpower.wav",
                             "Unreleased": 0
                         },
                         {
@@ -231,7 +231,7 @@
                             "TrackName": "Sugar Talking",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Sugar%20Talking.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Sugar%20Talking.wav",
                             "Unreleased": 0
                         },
                         {
@@ -239,7 +239,7 @@
                             "TrackName": "We Almost Broke Up Again Last Night",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/We%20Almost%20Broke%20Up%20Again%20Last%20Night.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/We%20Almost%20Broke%20Up%20Again%20Last%20Night.wav",
                             "Unreleased": 0
                         },
                         {
@@ -247,7 +247,7 @@
                             "TrackName": "Nobody's Son",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Nobody's%20Son.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Nobody's%20Son.wav",
                             "Unreleased": 0
                         },
                         {
@@ -255,7 +255,7 @@
                             "TrackName": "Never Getting Laid",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Never%20Getting%20Laid.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Never%20Getting%20Laid.wav",
                             "Unreleased": 0
                         },
                         {
@@ -263,7 +263,7 @@
                             "TrackName": "When Did You Get Hot?",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/When%20Did%20You%20Get%20Hot.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/When%20Did%20You%20Get%20Hot.wav",
                             "Unreleased": 0
                         },
                         {
@@ -271,7 +271,7 @@
                             "TrackName": "Go Go Juice",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Go%20Go%20Juice.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Go%20Go%20Juice.wav",
                             "Unreleased": 0
                         },
                         {
@@ -279,7 +279,7 @@
                             "TrackName": "Don't Worry I'll Make You Worry",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Don't%20Worry%20I'll%20Make%20You%20Worry.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Don't%20Worry%20I'll%20Make%20You%20Worry.wav",
                             "Unreleased": 0
                         },
                         {
@@ -287,7 +287,7 @@
                             "TrackName": "House Tour",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/House%20Tour.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/House%20Tour.wav",
                             "Unreleased": 0
                         },
                         {
@@ -295,7 +295,7 @@
                             "TrackName": "Goodbye",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Goodbye.wav",
                             "Unreleased": 0
                         },
                         {
@@ -303,7 +303,7 @@
                             "TrackName": "Such a Funny Way (Bonus)",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Man's Best Friend",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Such%20a%20Funny%20Way%20(Bonus).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/Such%20a%20Funny%20Way%20(Bonus).wav",
                             "Unreleased": 0
                         }
                     ]
@@ -311,7 +311,7 @@
                 {
                     "AlbumName": "Manchild",
                     "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Manchild/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#6F380E",
                     "Color2": "#C99124",
@@ -331,7 +331,7 @@
                             "TrackName": "Manchild",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Manchild",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Manchild/Manchild.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Manchild/Manchild.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -339,7 +339,7 @@
                 {
                     "AlbumName": "Singular Act II",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#101010",
                     "Color2": "#74503B",
@@ -359,7 +359,7 @@
                             "TrackName": "In My Bed",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/In%20My%20Bed.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/In%20My%20Bed.wav",
                             "Unreleased": 0
                         },
                         {
@@ -367,7 +367,7 @@
                             "TrackName": "Pushing 20",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Pushing%2020.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Pushing%2020.wav",
                             "Unreleased": 0
                         },
                         {
@@ -375,7 +375,7 @@
                             "TrackName": "I Can't Stop Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I%20Can't%20Stop%20Me.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/I%20Can't%20Stop%20Me.wav",
                             "Unreleased": 0
                         },
                         {
@@ -383,7 +383,7 @@
                             "TrackName": "I'm Fakin",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/I'm%20Fakin.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/I'm%20Fakin.wav",
                             "Unreleased": 0
                         },
                         {
@@ -391,7 +391,7 @@
                             "TrackName": "Take Off All Your Cool",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20Off%20All%20Your%20Cool.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20Off%20All%20Your%20Cool.wav",
                             "Unreleased": 0
                         },
                         {
@@ -399,7 +399,7 @@
                             "TrackName": "Tell Em",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Tell%20Em.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Tell%20Em.wav",
                             "Unreleased": 0
                         },
                         {
@@ -407,7 +407,7 @@
                             "TrackName": "Exhale",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Exhale.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Exhale.wav",
                             "Unreleased": 0
                         },
                         {
@@ -415,7 +415,7 @@
                             "TrackName": "Take You Back",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20You%20Back.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Take%20You%20Back.wav",
                             "Unreleased": 0
                         },
                         {
@@ -423,7 +423,7 @@
                             "TrackName": "Looking at Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act II",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20II/Looking%20at%20Me.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20II/Looking%20at%20Me.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -431,7 +431,7 @@
                 {
                     "AlbumName": "Singular Act I",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#AE956B",
                     "Color2": "#384644",
@@ -451,7 +451,7 @@
                             "TrackName": "Almost Love",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Almost%20Love.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Almost%20Love.wav",
                             "Unreleased": 0
                         },
                         {
@@ -459,7 +459,7 @@
                             "TrackName": "Paris",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Paris.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Paris.wav",
                             "Unreleased": 0
                         },
                         {
@@ -467,7 +467,7 @@
                             "TrackName": "Hold Tight",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Hold%20Tight.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Hold%20Tight.wav",
                             "Unreleased": 0
                         },
                         {
@@ -475,7 +475,7 @@
                             "TrackName": "Sue Me",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Sue%20Me.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Sue%20Me.wav",
                             "Unreleased": 0
                         },
                         {
@@ -483,7 +483,7 @@
                             "TrackName": "prfct",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/prfct.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/prfct.wav",
                             "Unreleased": 0
                         },
                         {
@@ -491,7 +491,7 @@
                             "TrackName": "Bad Time",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Bad%20Time.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Bad%20Time.wav",
                             "Unreleased": 0
                         },
                         {
@@ -499,7 +499,7 @@
                             "TrackName": "Mona Lisa",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Mona%20Lisa.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Mona%20Lisa.wav",
                             "Unreleased": 0
                         },
                         {
@@ -507,7 +507,7 @@
                             "TrackName": "Diamonds Are Forever",
                             "ArtistName": "Sabrina Carpenter",
                             "AlbumName": "Singular Act I",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Sabrina%20Carpenter/Singular%20Act%20I/Diamonds%20Are%20Forever.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Singular%20Act%20I/Diamonds%20Are%20Forever.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -516,15 +516,15 @@
         },
         {
             "ArtistName": "Addison Rae",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/back.jpg",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/back.jpg",
             "Color1": "#FCFFA9",
             "Color2": "#FFBA00",
             "Albums": [
                 {
                     "AlbumName": "Addison",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/animatedCover.mp4",
                     "Color1": "#FCFFA9",
                     "Color2": "#FFBA00",
                     "Timer": {
@@ -543,7 +543,7 @@
                             "TrackName": "New York",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/New%20York.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/New%20York.wav",
                             "Unreleased": 0
                         },
                         {
@@ -551,7 +551,7 @@
                             "TrackName": "Diet Pepsi",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Diet%20Pepsi.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Diet%20Pepsi.wav",
                             "Unreleased": 0
                         },
                         {
@@ -559,7 +559,7 @@
                             "TrackName": "Money is Everything",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Money%20is%20Everything.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Money%20is%20Everything.wav",
                             "Unreleased": 0
                         },
                         {
@@ -567,7 +567,7 @@
                             "TrackName": "Aquamarine",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Aquamarine.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Aquamarine.wav",
                             "Unreleased": 0
                         },
                         {
@@ -575,7 +575,7 @@
                             "TrackName": "Lost & Found",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Lost%20&%20Found.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Lost%20&%20Found.wav",
                             "Unreleased": 0
                         },
                         {
@@ -583,7 +583,7 @@
                             "TrackName": "High Fashion",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/High%20Fashion.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/High%20Fashion.wav",
                             "Unreleased": 0
                         },
                         {
@@ -591,7 +591,7 @@
                             "TrackName": "Summer Forever",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Summer%20Forever.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Summer%20Forever.wav",
                             "Unreleased": 0
                         },
                         {
@@ -599,7 +599,7 @@
                             "TrackName": "In The Rain",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/In%20The%20Rain.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/In%20The%20Rain.wav",
                             "Unreleased": 0
                         },
                         {
@@ -607,7 +607,7 @@
                             "TrackName": "Fame is a Gun",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Fame%20is%20a%20Gun.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Fame%20is%20a%20Gun.wav",
                             "Unreleased": 0
                         },
                         {
@@ -615,7 +615,7 @@
                             "TrackName": "Times Like These",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Times%20Like%20These.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Times%20Like%20These.wav",
                             "Unreleased": 0
                         },
                         {
@@ -623,7 +623,7 @@
                             "TrackName": "Life's No Fun Through Clear Waters",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Life's%20No%20Fun%20Through%20Clear%20Waters.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Life's%20No%20Fun%20Through%20Clear%20Waters.wav",
                             "Unreleased": 0
                         },
                         {
@@ -631,7 +631,7 @@
                             "TrackName": "Headphones On",
                             "ArtistName": "Addison Rae",
                             "AlbumName": "Addison",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Addison%20Rae/Addison/Headphones%20On.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/Headphones%20On.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -640,15 +640,15 @@
         },
         {
             "ArtistName": "Ariana Grande",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/back.jpg",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/back.jpg",
             "Color1": "#AD7139",
             "Color2": "#211510",
             "Albums": [
                 {
                     "AlbumName": "eternal sunshine deluxe: brighter days ahead",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/animatedCover.mp4",
                     "Color1": "#BA9066",
                     "Color2": "#735139",
                     "Timer": {
@@ -667,7 +667,7 @@
                             "TrackName": "intro (end of the world) [extended]",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/intro%20(end%20of%20the%20world)%20[extended].wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/intro%20(end%20of%20the%20world)%20[extended].wav",
                             "Unreleased": 0
                         },
                         {
@@ -675,7 +675,7 @@
                             "TrackName": "bye",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/bye.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/bye.wav",
                             "Unreleased": 0
                         },
                         {
@@ -683,7 +683,7 @@
                             "TrackName": "don't wanna break up again",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/don't%20wanna%20break%20up%20again.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/don't%20wanna%20break%20up%20again.wav",
                             "Unreleased": 0
                         },
                         {
@@ -691,7 +691,7 @@
                             "TrackName": "Saturn Returns Interlude",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Saturn%20Returns%20Interlude.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Saturn%20Returns%20Interlude.wav",
                             "Unreleased": 0
                         },
                         {
@@ -699,7 +699,7 @@
                             "TrackName": "eternal sunshine",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/eternal%20sunshine.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/eternal%20sunshine.wav",
                             "Unreleased": 0
                         },
                         {
@@ -707,7 +707,7 @@
                             "TrackName": "supernatural",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/supernatural.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/supernatural.wav",
                             "Unreleased": 0
                         },
                         {
@@ -715,7 +715,7 @@
                             "TrackName": "true story",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/true%20story.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/true%20story.wav",
                             "Unreleased": 0
                         },
                         {
@@ -723,7 +723,7 @@
                             "TrackName": "the boy is mine",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/the%20boy%20is%20mine.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/the%20boy%20is%20mine.wav",
                             "Unreleased": 0
                         },
                         {
@@ -731,7 +731,7 @@
                             "TrackName": "yes, and?",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/yes,%20and.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/yes,%20and.wav",
                             "Unreleased": 0
                         },
                         {
@@ -739,7 +739,7 @@
                             "TrackName": "we can't be friends (wait for your love)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/we%20can't%20be%20friends%20(wait%20for%20your%20love).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/we%20can't%20be%20friends%20(wait%20for%20your%20love).wav",
                             "Unreleased": 0
                         },
                         {
@@ -747,7 +747,7 @@
                             "TrackName": "i wish i hated you",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/i%20wish%20i%20hated%20you.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/i%20wish%20i%20hated%20you.wav",
                             "Unreleased": 0
                         },
                         {
@@ -755,7 +755,7 @@
                             "TrackName": "imperfect for you",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/imperfect%20for%20you.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/imperfect%20for%20you.wav",
                             "Unreleased": 0
                         },
                         {
@@ -763,7 +763,7 @@
                             "TrackName": "ordinary things (feat. Nonna)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/ordinary%20things%20(feat.%20Nonna).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/ordinary%20things%20(feat.%20Nonna).wav",
                             "Unreleased": 0
                         },
                         {
@@ -771,7 +771,7 @@
                             "TrackName": "twilight zone",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/twilight%20zone.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/twilight%20zone.wav",
                             "Unreleased": 0
                         },
                         {
@@ -779,7 +779,7 @@
                             "TrackName": "warm",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/warm.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/warm.wav",
                             "Unreleased": 0
                         },
                         {
@@ -787,7 +787,7 @@
                             "TrackName": "dandelion",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/dandelion.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/dandelion.wav",
                             "Unreleased": 0
                         },
                         {
@@ -795,7 +795,7 @@
                             "TrackName": "past life",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/past%20life.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/past%20life.wav",
                             "Unreleased": 0
                         },
                         {
@@ -803,7 +803,7 @@
                             "TrackName": "Hampstead",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "eternal sunshine deluxe: brighter days ahead",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Hampstead.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/Hampstead.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -811,8 +811,8 @@
                 {
                     "AlbumName": "Positions (Deluxe)",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/animatedCover.mp4",
                     "Color1": "#7C9490",
                     "Color2": "#D6CFC7",
                     "Timer": {
@@ -831,7 +831,7 @@
                             "TrackName": "shut up",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/shut%20up.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/shut%20up.wav",
                             "Unreleased": 0
                         },
                         {
@@ -839,7 +839,7 @@
                             "TrackName": "34+35",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/34+35.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/34+35.wav",
                             "Unreleased": 0
                         },
                         {
@@ -847,7 +847,7 @@
                             "TrackName": "motive (with Doja Cat)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/motive%20(with%20Doja%20Cat).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/motive%20(with%20Doja%20Cat).wav",
                             "Unreleased": 0
                         },
                         {
@@ -855,7 +855,7 @@
                             "TrackName": "just like magic",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/just%20like%20magic.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/just%20like%20magic.wav",
                             "Unreleased": 0
                         },
                         {
@@ -863,7 +863,7 @@
                             "TrackName": "off the table (with The Weeknd)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/off%20the%20table%20(with%20The%20Weeknd).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/off%20the%20table%20(with%20The%20Weeknd).wav",
                             "Unreleased": 0
                         },
                         {
@@ -871,7 +871,7 @@
                             "TrackName": "six thirty",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/six%20thirty.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/six%20thirty.wav",
                             "Unreleased": 0
                         },
                         {
@@ -879,7 +879,7 @@
                             "TrackName": "safety net (feat. Ty Dolla $ign)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/safety%20net%20(feat.%20Ty%20Dolla%20$ign).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/safety%20net%20(feat.%20Ty%20Dolla%20$ign).wav",
                             "Unreleased": 0
                         },
                         {
@@ -887,7 +887,7 @@
                             "TrackName": "my hair",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/my%20hair.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/my%20hair.wav",
                             "Unreleased": 0
                         },
                         {
@@ -895,7 +895,7 @@
                             "TrackName": "nasty",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/nasty.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/nasty.wav",
                             "Unreleased": 0
                         },
                         {
@@ -903,7 +903,7 @@
                             "TrackName": "west side",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/west%20side.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/west%20side.wav",
                             "Unreleased": 0
                         },
                         {
@@ -911,7 +911,7 @@
                             "TrackName": "love language",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/love%20language.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/love%20language.wav",
                             "Unreleased": 0
                         },
                         {
@@ -919,7 +919,7 @@
                             "TrackName": "positions",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/positions.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/positions.wav",
                             "Unreleased": 0
                         },
                         {
@@ -927,7 +927,7 @@
                             "TrackName": "obvious",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/obvious.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/obvious.wav",
                             "Unreleased": 0
                         },
                         {
@@ -935,7 +935,7 @@
                             "TrackName": "pov",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/pov.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/pov.wav",
                             "Unreleased": 0
                         },
                         {
@@ -943,7 +943,7 @@
                             "TrackName": "someone like u (interlude)",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/someone%20like%20u%20(interlude).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/someone%20like%20u%20(interlude).wav",
                             "Unreleased": 0
                         },
                         {
@@ -951,7 +951,7 @@
                             "TrackName": "test drive",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/test%20drive.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/test%20drive.wav",
                             "Unreleased": 0
                         },
                         {
@@ -959,7 +959,7 @@
                             "TrackName": "34+35 (feat. Doja Cat & Megan Thee Stallion) [Remix]",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/34+35%20(feat.%20Doja%20Cat%20&%20Megan%20Thee%20Stallion)%20[Remix].wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/34+35%20(feat.%20Doja%20Cat%20&%20Megan%20Thee%20Stallion)%20[Remix].wav",
                             "Unreleased": 0
                         },
                         {
@@ -967,7 +967,7 @@
                             "TrackName": "worst behavior",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/worst%20behavior.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/worst%20behavior.wav",
                             "Unreleased": 0
                         },
                         {
@@ -975,7 +975,7 @@
                             "TrackName": "main thing",
                             "ArtistName": "Ariana Grande",
                             "AlbumName": "Positions (Deluxe)",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Ariana%20Grande/Positions%20(Deluxe)/main%20thing.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/main%20thing.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -984,7 +984,7 @@
         },
         {
             "ArtistName": "Chase Atlantic",
-            "BackgroundURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/back.jpg",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/back.jpg",
             "Color1": "#76B0FF",
             "Color2": "#B37AEF",
             "Albums": [
@@ -1147,7 +1147,7 @@
                 {
                     "AlbumName": "REMIND ME",
                     "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/REMIND%20ME/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#B9CFEF",
                     "Color2": "#E6F9FF",
@@ -1167,7 +1167,7 @@
                             "TrackName": "REMIND ME",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "REMIND ME",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/REMIND%20ME/REMIND%20ME.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/REMIND%20ME/REMIND%20ME.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -1175,7 +1175,7 @@
                 {
                     "AlbumName": "FACEDOWN",
                     "Type": "Single",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/FACEDOWN/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/FACEDOWN/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#5F1720",
                     "Color2": "#B20165",
@@ -1195,7 +1195,7 @@
                             "TrackName": "FACEDOWN",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "FACEDOWN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/FACEDOWN/FACEDOWN.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/FACEDOWN/FACEDOWN.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -1203,8 +1203,8 @@
                 {
                     "AlbumName": "LOST IN HEAVEN",
                     "Type": "Album",
-                    "CoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/cover.jpg",
-                    "AnimatedCoverURL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/animatedCover.mp4",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/animatedCover.mp4",
                     "Color1": "#76B0FF",
                     "Color2": "#B37AEF",
                     "Timer": {
@@ -1223,7 +1223,7 @@
                             "TrackName": "FAVELA",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/FAVELA.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/FAVELA.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1231,7 +1231,7 @@
                             "TrackName": "DIE FOR ME",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DIE%20FOR%20ME.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DIE%20FOR%20ME.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1239,7 +1239,7 @@
                             "TrackName": "RICOCHET",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/RICOCHET.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/RICOCHET.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1247,7 +1247,7 @@
                             "TrackName": "YOU",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/YOU.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/YOU.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1255,7 +1255,7 @@
                             "TrackName": "DEMON TIME",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DEMON%20TIME.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DEMON%20TIME.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1263,7 +1263,7 @@
                             "TrackName": "NIGHT CALLS",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/NIGHT%20CALLS.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/NIGHT%20CALLS.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1271,7 +1271,7 @@
                             "TrackName": "DISCONNECTED",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DISCONNECTED.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DISCONNECTED.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1279,7 +1279,7 @@
                             "TrackName": "HOURS LOST",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/HOURS%20LOST.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/HOURS%20LOST.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1287,7 +1287,7 @@
                             "TrackName": "MESS ME UP (with Xavier Mayne)",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MESS%20ME%20UP%20(with%20Xavier%20Mayne).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MESS%20ME%20UP%20(with%20Xavier%20Mayne).wav",
                             "Unreleased": 0
                         },
                         {
@@ -1295,7 +1295,7 @@
                             "TrackName": "AMY",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/AMY.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/AMY.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1303,7 +1303,7 @@
                             "TrackName": "DOUBT IT",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DOUBT%20IT.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DOUBT%20IT.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1311,7 +1311,7 @@
                             "TrackName": "MAMACITA",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MAMACITA.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/MAMACITA.wav",
                             "Unreleased": 0
                         },
                         {
@@ -1319,7 +1319,7 @@
                             "TrackName": "DON'T LAUGH",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "LOST IN HEAVEN",
-                            "URL": "https://github.com/sunshine0x0/Music/raw/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DON'T%20LAUGH.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN/DON'T%20LAUGH.wav",
                             "Unreleased": 0
                         }
                     ]
