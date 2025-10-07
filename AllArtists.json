@@ -179,6 +179,190 @@
             ]
         },
         {
+            "ArtistName": "Tate McRae",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/back.jpg",
+            "Color1": "#2A97F6",
+            "Color2": "#02203A",
+            "Albums": [
+                {
+                    "AlbumName": "TIT FOR TAT",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/TIT%20FOR%20TAT/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#2A97F6",
+                    "Color2": "#02203A",
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "TIT FOR TAT",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "TIT FOR TAT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/TIT%20FOR%20TAT/TIT%20FOR%20TAT.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "So Close To What",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/animatedCover.mp4",
+                    "Color1": "#604F3F",
+                    "Color2": "#493729",
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 9,
+                        "Day": 26,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Miss possessive",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Miss%20possessive.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Revolving door",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Revolving%20door.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "bloodonmyhands (feat. Flo Milli)",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/bloodonmyhands%20(feat.%20Flo%20Milli).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Dear god",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Dear%20god.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Purple lace bra",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Purple%20lace%20bra.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Sports car",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Sports%20car.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Signs",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Signs.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "I know love (feat. The Kid LAROI)",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/I%20know%20love%20(feat.%20The%20Kid%20LAROI).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Like I do",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Like%20I%20do.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "It's ok I'm ok",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/It's%20ok%20I'm%20ok.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "No I'm not in love",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/No%20I'm%20not%20in%20love.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Means I care",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Means%20I%20care.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Greenlight",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Greenlight.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "2 hands",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/2%20hands.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "Siren sounds (bonus)",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Siren%20sounds%20(bonus).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "Nostalgia",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "So Close To What",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Nostalgia.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "ArtistName": "Sabrina Carpenter",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/back.jpg",
             "Color1": "#FCC0B1",
@@ -1292,10 +1476,10 @@
                         },
                         {
                             "ID": 10,
-                            "TrackName": "I THINK I’M LOST AGAIN",
+                            "TrackName": "I THINK I'M LOST AGAIN",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "BEAUTY IN DEATH (DELUXE EDITION)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%20(DELUXE%20EDITION)/I%20THINK%20I’M%20LOST%20AGAIN.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/BEAUTY%20IN%20DEATH%20(DELUXE%20EDITION)/I%20THINK%20I'M%20LOST%20AGAIN.wav",
                             "Unreleased": 0
                         },
                         {
