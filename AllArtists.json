@@ -183,16 +183,16 @@
         {
             "ArtistName": "Tate McRae",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/back.jpg",
-            "Color1": "#2A97F6",
-            "Color2": "#02203A",
+            "Color1": "#5D79A9",
+            "Color2": "#0C1828",
             "Albums": [
                 {
                     "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
                     "Type": "Album",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#604F3F",
-                    "Color2": "#493729",
+                    "Color1": "#5D79A9",
+                    "Color2": "#0C1828",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
