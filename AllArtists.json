@@ -15,6 +15,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/animatedCover.mp4",
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -155,6 +156,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#614A8D",
                     "Color2": "#9F96C3",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -185,14 +187,68 @@
             "Color2": "#02203A",
             "Albums": [
                 {
+                    "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#604F3F",
+                    "Color2": "#493729",
+                    "DoNotSpawnAlbum": false,
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 2025,
+                        "Month": 11,
+                        "Day": 21,
+                        "Hour": 12,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "TRYING ON SHOES",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/TRYING%20ON%20SHOES.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "ANYTHING BUT LOVE",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/ANYTHING%20BUT%20LOVE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "NOBODY'S GIRL",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/NOBODY'S%20GIRL.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "HORSESHOE",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/HORSESHOE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
                     "AlbumName": "TIT FOR TAT",
                     "Type": "Single",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/TIT%20FOR%20TAT/cover.jpg",
                     "AnimatedCoverURL": "",
                     "Color1": "#2A97F6",
                     "Color2": "#02203A",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
                         "Year": 2025,
                         "Month": 0,
@@ -219,12 +275,13 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/animatedCover.mp4",
                     "Color1": "#604F3F",
                     "Color2": "#493729",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
                         "Year": 2025,
-                        "Month": 9,
-                        "Day": 26,
+                        "Month": 2,
+                        "Day": 21,
                         "Hour": 12,
                         "Minute": 0,
                         "Second": 0
@@ -375,6 +432,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Man's%20Best%20Friend/animatedCover.mp4",
                     "Color1": "#FCC0B1",
                     "Color2": "#B8885D",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -499,6 +557,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#6F380E",
                     "Color2": "#C99124",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -527,6 +586,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#101010",
                     "Color2": "#74503B",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
@@ -619,6 +679,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#AE956B",
                     "Color2": "#384644",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2018",
                         "Timer": false,
@@ -711,6 +772,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/Addison/animatedCover.mp4",
                     "Color1": "#FCFFA9",
                     "Color2": "#FFBA00",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -835,6 +897,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/eternal%20sunshine%20deluxe%20brighter%20days%20ahead/animatedCover.mp4",
                     "Color1": "#111717",
                     "Color2": "#737E82",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -999,6 +1062,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/Positions%20(Deluxe)/animatedCover.mp4",
                     "Color1": "#7C9490",
                     "Color2": "#D6CFC7",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2021",
                         "Timer": false,
@@ -1179,6 +1243,7 @@
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/LOST%20IN%20HEAVEN%20(HIGH%20AS%20HELL)%20[Deluxe]/animatedCover.mp4",
                     "Color1": "#ABDAF8",
                     "Color2": "#1EA0F4",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -1335,6 +1400,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#B9CFEF",
                     "Color2": "#E6F9FF",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1363,6 +1429,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#5F1720",
                     "Color2": "#B20165",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1391,6 +1458,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#0D1E4C",
                     "Color2": "#3D9BD9",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2022",
                         "Timer": false,
@@ -1555,6 +1623,7 @@
                     "AnimatedCoverURL": "",
                     "Color1": "#9E0014",
                     "Color2": "#590715",
+                    "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
