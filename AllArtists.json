@@ -1717,7 +1717,7 @@
                             "TrackName": "POSSESSION",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "POSSESSION",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Manchild/Manchild.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/POSSESSION/POSSESSION.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -1727,8 +1727,8 @@
                     "Type": "Album",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/cover.jpg",
                     "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/animatedCover.mp4",
-                    "Color1": "#6F380E",
-                    "Color2": "#C99124",
+                    "Color1": "#F4A7A6",
+                    "Color2": "#A65155",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
                         "ReleaseDate": "2023",
@@ -1743,50 +1743,130 @@
                     "Tracks": [
                         {
                             "ID": 1,
-                            "TrackName": "WHAT U CALL THAT",
+                            "TrackName": "DEATH",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/WHAT%20U%20CALL%20THAT.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/DEATH.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 2,
-                            "TrackName": "YOU TOO.",
+                            "TrackName": "VOID",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/YOU%20TOO..wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/VOID.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 3,
-                            "TrackName": "LIKE A ROCKSTAR",
+                            "TrackName": "TUNNEL VISION",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LIKE%20A%20ROCKSTAR.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/TUNNEL%20VISION.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 4,
-                            "TrackName": "DEVILISH",
+                            "TrackName": "FAERIE SOIRÉE",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/DEVILISH.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/FAERIE%20SOIRÉE.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 5,
-                            "TrackName": "GREENGREENGREEN",
+                            "TrackName": "LIGHT SHOWER",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/GREENGREENGREEN.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/LIGHT%20SHOWER.wav",
                             "Unreleased": 0
                         },
                         {
                             "ID": 6,
-                            "TrackName": "LUST",
+                            "TrackName": "SPIDER WEB",
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LUST.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/SPIDER%20WEB.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "LEECHES",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/LEECHES.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "BATTLE OF THE LARYNX",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/BATTLE%20OF%20THE%20LARYNX.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "THE CONTORTIONIST",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/THE%20CONTORTIONIST.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "MOON CYCLE",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/MOON%20CYCLE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "NYMPHOLOGY",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/NYMPHOLOGY.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "EVIL",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/EVIL.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "WOMB",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/WOMB.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "POWDER",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/POWDER.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "PLUTO",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/PLUTO.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "MILK OF THE SIREN",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/MILK%20OF%20THE%20SIREN.wav",
                             "Unreleased": 0
                         }
                     ]
