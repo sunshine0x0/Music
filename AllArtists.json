@@ -17,12 +17,12 @@
                     "Color2": "#86D6FF",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 9,
-                        "Day": 26,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -160,7 +160,7 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -195,12 +195,12 @@
                     "Color2": "#0C1828",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 11,
-                        "Day": 21,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -250,7 +250,7 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -279,10 +279,10 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 2,
-                        "Day": 21,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -434,9 +434,9 @@
                     "Color2": "#B8885D",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -561,7 +561,7 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -590,7 +590,7 @@
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -683,7 +683,7 @@
                     "Timer": {
                         "ReleaseDate": "2018",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -774,9 +774,9 @@
                     "Color2": "#FFBA00",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -899,9 +899,9 @@
                     "Color2": "#737E82",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -1066,7 +1066,7 @@
                     "Timer": {
                         "ReleaseDate": "2021",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -1245,12 +1245,12 @@
                     "Color2": "#1EA0F4",
                     "DoNotSpawnAlbum": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 10,
-                        "Day": 2,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -1404,7 +1404,7 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -1433,7 +1433,7 @@
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
-                        "Year": 2025,
+                        "Year": 0,
                         "Month": 0,
                         "Day": 0,
                         "Hour": 0,
@@ -1462,10 +1462,10 @@
                     "Timer": {
                         "ReleaseDate": "2022",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 10,
-                        "Day": 2,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -1627,10 +1627,10 @@
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
-                        "Year": 2025,
-                        "Month": 10,
-                        "Day": 2,
-                        "Hour": 12,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
                         "Minute": 0,
                         "Second": 0
                     },
@@ -1680,6 +1680,112 @@
                             "TrackName": "LUST",
                             "ArtistName": "Chase Atlantic",
                             "AlbumName": "DON'T TRY THIS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LUST.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Melanie Martinez",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/back.jpg",
+            "Color1": "#CEA7AC",
+            "Color2": "#8E715F",
+            "Albums": [
+                {
+                    "AlbumName": "POSSESSION",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/POSSESSION/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#CEA7AC",
+                    "Color2": "#8E715F",
+                    "DoNotSpawnAlbum": false,
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "POSSESSION",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "POSSESSION",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/Manchild/Manchild.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "PORTALS (Deluxe)",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/animatedCover.mp4",
+                    "Color1": "#6F380E",
+                    "Color2": "#C99124",
+                    "DoNotSpawnAlbum": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "WHAT U CALL THAT",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/WHAT%20U%20CALL%20THAT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "YOU TOO.",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/YOU%20TOO..wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "LIKE A ROCKSTAR",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LIKE%20A%20ROCKSTAR.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "DEVILISH",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/DEVILISH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "GREENGREENGREEN",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/GREENGREENGREEN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "LUST",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "PORTALS (Deluxe)",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/DON'T%20TRY%20THIS/LUST.wav",
                             "Unreleased": 0
                         }
