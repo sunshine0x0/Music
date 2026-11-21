@@ -2013,6 +2013,36 @@
                     ]
                 },
                 {
+                    "AlbumName": "GODS",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/GODS/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#414C82",
+                    "Color2": "#947C89",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "GODS",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "GODS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/GODS/GODS.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
                     "AlbumName": "NewJeans 2nd EP 'Get Up'",
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/cover.jpg",
