@@ -2717,16 +2717,16 @@
             "ArtistName": "MADEIN",
             "Genre": "K-Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
-            "Color1": "#1F2427",
-            "Color2": "#90756A",
+            "Color1": "#5C8FA4",
+            "Color2": "#CFCBDA",
             "Albums": [
                 {
                     "AlbumName": "24/11 - MASHIRO",
                     "Type": "EP",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/2411%20-%20MASHIRO/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#1D1F2C",
+                    "Color2": "#495764",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2745,7 +2745,7 @@
                             "TrackName": "HOTLINE (feat. BOBBY)",
                             "ArtistName": "MASHIRO",
                             "AlbumName": "24/11 - MASHIRO",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/HOTLINE%20(feat.%20BOBBY).wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/2411%20-%20MASHIRO/HOTLINE%20(feat.%20BOBBY).wav",
                             "Unreleased": 0
                         },
                         {
@@ -2753,7 +2753,7 @@
                             "TrackName": "MAKE UP",
                             "ArtistName": "MASHIRO",
                             "AlbumName": "24/11 - MASHIRO",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/MAKE%20UP.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/2411%20-%20MASHIRO/MAKE%20UP.wav",
                             "Unreleased": 0
                         },
                         {
@@ -2761,7 +2761,7 @@
                             "TrackName": "Bubble Trouble",
                             "ArtistName": "MASHIRO",
                             "AlbumName": "24/11 - MASHIRO",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/Bubble%20Trouble.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/2411%20-%20MASHIRO/Bubble%20Trouble.wav",
                             "Unreleased": 0
                         },
                         {
@@ -2769,7 +2769,7 @@
                             "TrackName": "Toothbrush",
                             "ArtistName": "MASHIRO",
                             "AlbumName": "24/11 - MASHIRO",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/Toothbrush.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/2411%20-%20MASHIRO/Toothbrush.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -2779,8 +2779,8 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/Girl%20Meets%20Boy/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#6495D0",
+                    "Color2": "#C0D5F2",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2815,10 +2815,10 @@
                 {
                     "AlbumName": "BLUE",
                     "Type": "Single",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE%20-%20MADEIN%20S/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#F1F6FC",
+                    "Color2": "#99C6E5",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2835,9 +2835,9 @@
                         {
                             "ID": 1,
                             "TrackName": "BLUE",
-                            "ArtistName": "MADEIN",
+                            "ArtistName": "MADEIN S",
                             "AlbumName": "BLUE",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE/BLUE.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE%20-%20MADEIN%20S/BLUE.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -2847,10 +2847,10 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADEIN%20FOREVER/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#22010C",
+                    "Color2": "#CC1E5B",
                     "DoNotSpawnAlbum": false,
-                    "WhiteOutlines": false,
+                    "WhiteOutlines": true,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -2885,8 +2885,8 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#5C8FA4",
+                    "Color2": "#CFCBDA",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2939,8 +2939,8 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#2F2838",
+                    "Color2": "#C8BAD3",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2991,10 +2991,10 @@
                 {
                     "AlbumName": "MADELEINE - LIMELIGHT",
                     "Type": "Single",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE/cover.jpg",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE%20-%20LIMELIGHT/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#FFD2BD",
+                    "Color2": "#F5F8E3",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -3011,9 +3011,9 @@
                         {
                             "ID": 1,
                             "TrackName": "MADELEINE",
-                            "ArtistName": "MADEIN",
+                            "ArtistName": "LIMELIGHT",
                             "AlbumName": "MADELEINE - LIMELIGHT",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE/MADELEINE.wav",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE%20-%20LIMELIGHT/MADELEINE.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -3023,8 +3023,8 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#EEEAEB",
+                    "Color2": "#D79F92",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -3041,7 +3041,7 @@
                         {
                             "ID": 1,
                             "TrackName": "Honestly",
-                            "ArtistName": "MADEIN",
+                            "ArtistName": "LIMELIGHT",
                             "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Honestly.wav",
                             "Unreleased": 0
@@ -3049,7 +3049,7 @@
                         {
                             "ID": 2,
                             "TrackName": "Blanc Noir",
-                            "ArtistName": "MADEIN",
+                            "ArtistName": "LIMELIGHT",
                             "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Blanc%20Noir.wav",
                             "Unreleased": 0
@@ -3057,7 +3057,7 @@
                         {
                             "ID": 3,
                             "TrackName": "Crystal",
-                            "ArtistName": "MADEIN",
+                            "ArtistName": "LIMELIGHT",
                             "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Crystal.wav",
                             "Unreleased": 0
@@ -3069,8 +3069,8 @@
                     "Type": "EP",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#1F2427",
-                    "Color2": "#1F2427",
+                    "Color1": "#D8D9D1",
+                    "Color2": "#F7FF76",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
