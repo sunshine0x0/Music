@@ -2813,7 +2813,7 @@
                     ]
                 },
                 {
-                    "AlbumName": "BLUE",
+                    "AlbumName": "BLUE - MADEIN S",
                     "Type": "Single",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE%20-%20MADEIN%20S/cover.jpg",
                     "AnimatedCoverURL": "",
@@ -2836,7 +2836,7 @@
                             "ID": 1,
                             "TrackName": "BLUE",
                             "ArtistName": "MADEIN S",
-                            "AlbumName": "BLUE",
+                            "AlbumName": "BLUE - MADEIN S",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE%20-%20MADEIN%20S/BLUE.wav",
                             "Unreleased": 0
                         }
