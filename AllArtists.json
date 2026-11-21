@@ -4,6 +4,7 @@
     "AllArtists": [
         {
             "ArtistName": "Doja Cat",
+            "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/back.jpg",
             "Color1": "#FFBD32",
             "Color2": "#86D6FF",
@@ -16,6 +17,7 @@
                     "Color1": "#FFBD32",
                     "Color2": "#86D6FF",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -157,6 +159,7 @@
                     "Color1": "#614A8D",
                     "Color2": "#9F96C3",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -182,6 +185,7 @@
         },
         {
             "ArtistName": "Tate McRae",
+            "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/back.jpg",
             "Color1": "#5D79A9",
             "Color2": "#0C1828",
@@ -194,6 +198,7 @@
                     "Color1": "#5D79A9",
                     "Color2": "#0C1828",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -247,6 +252,7 @@
                     "Color1": "#2A97F6",
                     "Color2": "#02203A",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -276,6 +282,7 @@
                     "Color1": "#604F3F",
                     "Color2": "#493729",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -421,6 +428,7 @@
         },
         {
             "ArtistName": "Sabrina Carpenter",
+            "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Sabrina%20Carpenter/back.jpg",
             "Color1": "#FCC0B1",
             "Color2": "#B8885D",
@@ -433,6 +441,7 @@
                     "Color1": "#FCC0B1",
                     "Color2": "#B8885D",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -558,6 +567,7 @@
                     "Color1": "#6F380E",
                     "Color2": "#C99124",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -587,6 +597,7 @@
                     "Color1": "#101010",
                     "Color2": "#74503B",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
@@ -680,6 +691,7 @@
                     "Color1": "#AE956B",
                     "Color2": "#384644",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2018",
                         "Timer": false,
@@ -761,6 +773,7 @@
         },
         {
             "ArtistName": "Addison Rae",
+            "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Addison%20Rae/back.jpg",
             "Color1": "#FCFFA9",
             "Color2": "#FFBA00",
@@ -773,6 +786,7 @@
                     "Color1": "#FCFFA9",
                     "Color2": "#FFBA00",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -886,6 +900,7 @@
         },
         {
             "ArtistName": "Ariana Grande",
+            "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ariana%20Grande/back.jpg",
             "Color1": "#AD7139",
             "Color2": "#211510",
@@ -898,6 +913,7 @@
                     "Color1": "#111717",
                     "Color2": "#737E82",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1063,6 +1079,7 @@
                     "Color1": "#7C9490",
                     "Color2": "#D6CFC7",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2021",
                         "Timer": false,
@@ -1232,6 +1249,7 @@
         },
         {
             "ArtistName": "Chase Atlantic",
+            "Genre": "Alternative",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Chase%20Atlantic/back.jpg",
             "Color1": "#ABDAF8",
             "Color2": "#1EA0F4",
@@ -1244,6 +1262,7 @@
                     "Color1": "#ABDAF8",
                     "Color2": "#1EA0F4",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1401,6 +1420,7 @@
                     "Color1": "#B9CFEF",
                     "Color2": "#E6F9FF",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1430,6 +1450,7 @@
                     "Color1": "#5F1720",
                     "Color2": "#B20165",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2025",
                         "Timer": false,
@@ -1459,6 +1480,7 @@
                     "Color1": "#0D1E4C",
                     "Color2": "#3D9BD9",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2022",
                         "Timer": false,
@@ -1624,6 +1646,7 @@
                     "Color1": "#9E0014",
                     "Color2": "#590715",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2019",
                         "Timer": false,
@@ -1689,6 +1712,7 @@
         },
         {
             "ArtistName": "Melanie Martinez",
+            "Genre": "Alternative",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/back.jpg",
             "Color1": "#CEA7AC",
             "Color2": "#8E715F",
@@ -1701,6 +1725,7 @@
                     "Color1": "#CEA7AC",
                     "Color2": "#8E715F",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "Latest Release",
                         "Timer": false,
@@ -1730,6 +1755,7 @@
                     "Color1": "#F4A7A6",
                     "Color2": "#A65155",
                     "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
                     "Timer": {
                         "ReleaseDate": "2023",
                         "Timer": false,
@@ -1867,6 +1893,305 @@
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/MILK%20OF%20THE%20SIREN.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "NewJeans",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/back.jpg",
+            "Color1": "#022038",
+            "Color2": "#D5DFE1",
+            "Albums": [
+                {
+                    "AlbumName": "Supernatural",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Supernatural/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Supernatural/animatedCover.mp4",
+                    "Color1": "#000000",
+                    "Color2": "#000000",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Supernatural",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "Supernatural",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Supernatural/Supernatural.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Right Now",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "Supernatural",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Supernatural/Right%20Now.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "How Sweet",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/How%20Sweet/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#022038",
+                    "Color2": "#D5DFE1",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "How Sweet",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "How Sweet",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/How%20Sweet/How%20Sweet.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Bubble Gum",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "How Sweet",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/How%20Sweet/Bubble%20Gum.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/animatedCover.mp4",
+                    "Color1": "#F66CF7",
+                    "Color2": "#5FB9DC",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "New Jeans",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/New%20Jeans.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Super Shy",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/Super%20Shy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "ETA",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/ETA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Cool With You",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/Cool%20With%20You.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Get Up",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/Get%20Up.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "ASAP",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 2nd EP 'Get Up'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/ASAP.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Zero",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Zero/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#D41330",
+                    "Color2": "#4B030E",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Zero",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "Zero",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Zero/Zero.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "NewJeans 'OMG'",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%20'OMG'/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#6C6C6C",
+                    "Color2": "#EFEFEF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "OMG",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 'OMG'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%20'OMG'/OMG.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Ditto",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Ditto/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#A78B88",
+                    "Color2": "#7B0017",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Ditto",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "Ditto",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Ditto/Ditto.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "NewJeans 1st EP 'New Jeans'",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/animatedCover.mp4",
+                    "Color1": "#F5F5F4",
+                    "Color2": "#283487",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Attention",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 1st EP 'New Jeans'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/Attention.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Hype Boy",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 1st EP 'New Jeans'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/Hype%20Boy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Cookie",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 1st EP 'New Jeans'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/Cookie.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Hurt",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "NewJeans 1st EP 'New Jeans'",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/Hurt.wav",
                             "Unreleased": 0
                         }
                     ]
