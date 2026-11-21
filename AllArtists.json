@@ -187,16 +187,16 @@
             "ArtistName": "Tate McRae",
             "Genre": "Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/back.jpg",
-            "Color1": "#5D79A9",
-            "Color2": "#0C1828",
+            "Color1": "#E2C8AF",
+            "Color2": "#9A2224",
             "Albums": [
                 {
                     "AlbumName": "Housewife",
                     "Type": "Single",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/Housewife/cover.jpg",
                     "AnimatedCoverURL": "",
-                    "Color1": "#2A97F6",
-                    "Color2": "#02203A",
+                    "Color1": "#E2C8AF",
+                    "Color2": "#9A2224",
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
@@ -2707,6 +2707,413 @@
                             "ArtistName": "ILLIT",
                             "AlbumName": "SUPER REAL ME",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/Lucky%20Girl%20Syndrome.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "MADEIN",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
+            "Color1": "#1F2427",
+            "Color2": "#90756A",
+            "Albums": [
+                {
+                    "AlbumName": "24/11 - MASHIRO",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "HOTLINE (feat. BOBBY)",
+                            "ArtistName": "MASHIRO",
+                            "AlbumName": "24/11 - MASHIRO",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/HOTLINE%20(feat.%20BOBBY).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "MAKE UP",
+                            "ArtistName": "MASHIRO",
+                            "AlbumName": "24/11 - MASHIRO",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/MAKE%20UP.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Bubble Trouble",
+                            "ArtistName": "MASHIRO",
+                            "AlbumName": "24/11 - MASHIRO",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/Bubble%20Trouble.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Toothbrush",
+                            "ArtistName": "MASHIRO",
+                            "AlbumName": "24/11 - MASHIRO",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/24/11%20-%20MASHIRO/Toothbrush.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Girl Meets Boy",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/Girl%20Meets%20Boy/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Super Obvious",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "Girl Meets Boy",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/Girl%20Meets%20Boy/Super%20Obvious.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "PUNG!",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "Girl Meets Boy",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/Girl%20Meets%20Boy/PUNG!.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "BLUE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "BLUE",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "BLUE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/BLUE/BLUE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "MADEIN FOREVER",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADEIN%20FOREVER/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "SATURN",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "MADEIN FOREVER",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADEIN%20FOREVER/SATURN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "LOVE, AFRAID",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "MADEIN FOREVER",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADEIN%20FOREVER/LOVE,%20AFRAID.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "상승",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "UNO",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "상승",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/UNO.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "DADARIDA",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "상승",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/DADARIDA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "DOPAMINE",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "상승",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/DOPAMINE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "TIMELINE",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "상승",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/상승/TIMELINE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LAST DANCE - LIMELIGHT",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Baby, Maybe Crazy",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LAST DANCE - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/Baby,%20Maybe%20Crazy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "TA-DA!",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LAST DANCE - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/TA-DA!.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "IF U KNOW U KNOW",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LAST DANCE - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/IF%20U%20KNOW%20U%20KNOW.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "TWENTY TWENTY",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LAST DANCE - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LAST%20DANCE%20-%20LIMELIGHT/TWENTY%20TWENTY.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "MADELEINE - LIMELIGHT",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "MADELEINE",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "MADELEINE - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/MADELEINE/MADELEINE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Honestly",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Honestly.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Blanc Noir",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Blanc%20Noir.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Crystal",
+                            "ArtistName": "MADEIN",
+                            "AlbumName": "LOVE & HAPPINESS - LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LOVE%20&%20HAPPINESS%20-%20LIMELIGHT/Crystal.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LIMELIGHT",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#1F2427",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Starlight",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Starlight.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Eye To Eye",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Eye%20To%20Eye.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Paradise",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Paradise.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Cha Cha",
+                            "ArtistName": "LIMELIGHT",
+                            "AlbumName": "LIMELIGHT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Cha%20Cha.wav",
                             "Unreleased": 0
                         }
                     ]
