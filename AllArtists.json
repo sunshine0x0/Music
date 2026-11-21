@@ -2744,6 +2744,987 @@
             ]
         },
         {
+            "ArtistName": "IVE",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/back.jpg",
+            "Color1": "#D2C4C3",
+            "Color2": "#FEF8FC",
+            "Albums": [
+                {
+                    "AlbumName": "Looks Can Kill",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/animatedCover.mp4",
+                    "Color1": "#000000",
+                    "Color2": "#000000",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Looks Can Kill",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/Looks%20Can%20Kill.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Mirror Mirror",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/Mirror%20Mirror.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "SNAKESKIN",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/SNAKESKIN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "CRUMBS",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/CRUMBS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Girls Girls Girls",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/Girls%20Girls%20Girls.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Glow Motion",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Looks Can Kill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Looks%20Can%20Kill/Glow%20Motion.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LUCID DREAM",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LUCID%20DREAM/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LUCID%20DREAM/animatedCover.mp4",
+                    "Color1": "#EAD8E6",
+                    "Color2": "#FAEFF3",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "LUCID DREAM",
+                            "ArtistName": "IVE",
+                            "AlbumName": "LUCID DREAM",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LUCID%20DREAM/LUCID%20DREAM.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Fashion",
+                            "ArtistName": "IVE",
+                            "AlbumName": "LUCID DREAM",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LUCID%20DREAM/Fashion.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "JIGSAW",
+                            "ArtistName": "IVE",
+                            "AlbumName": "LUCID DREAM",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LUCID%20DREAM/JIGSAW.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "REVIVE+",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/animatedCover.mp4",
+                    "Color1": "#081E57",
+                    "Color2": "#021852",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "BLACKHOLE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/BLACKHOLE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "BANG BANG",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/BANG%20BANG.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Hush",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Hush.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Stuck In Your Head",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Stuck%20In%20Your%20Head.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Fireworks",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Fireworks.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "HOT COFFEE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/HOT%20COFFEE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "8 (JANGWONYOUNG Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/8%20(JANGWONYOUNG%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Odd (GAEUL Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Odd%20(GAEUL%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Super ICY (LEESEO Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Super%20ICY%20(LEESEO%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Unreal (LIZ Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Unreal%20(LIZ%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "In Your Heart (REI Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/In%20Your%20Heart%20(REI%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Force (ANYUJIN Solo)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "REVIVE+",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/REVIVE+/Force%20(ANYUJIN%20Solo).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "IVE SECRET",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/animatedCover.mp4",
+                    "Color1": "#F3F5FF",
+                    "Color2": "#7AB8EB",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "XOXZ",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/XOXZ.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Wild Bird",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/Wild%20Bird.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Dear, My Feelings",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/Dear,%20My%20Feelings.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "GOTCHA (Baddest Eros)",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/GOTCHA%20(Baddest%20Eros).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "♥beats",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/♥beats.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Midnight Kiss",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SECRET",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SECRET/Midnight%20Kiss.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Be Alright",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Be%20Alright/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#F4EBFE",
+                    "Color2": "#932CFF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Be Alright",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Be Alright",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Be%20Alright/Be%20Alright.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "DARE ME",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Be Alright",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Be%20Alright/DARE%20ME.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "IVE EMPATHY",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/animatedCover.mp4",
+                    "Color1": "#EAE6E3",
+                    "Color2": "#D06986",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "REBEL HEART",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/REBEL%20HEART.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "FLU",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/FLU.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "You Wanna Cry",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/You%20Wanna%20Cry.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Thank U",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/Thank%20U.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "ATTITUDE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/ATTITUDE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "TKO",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE EMPATHY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20EMPATHY/TKO.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Supernova Love",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Supernova%20Love/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#0E1A32",
+                    "Color2": "#015DA8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Supernova Love",
+                            "ArtistName": "IVE",
+                            "AlbumName": "Supernova Love",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Supernova%20Love/Supernova%20Love.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "ALIVE",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ALIVE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#22CFFA",
+                    "Color2": "#FFF8FF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "CRUSH",
+                            "ArtistName": "IVE",
+                            "AlbumName": "ALIVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ALIVE/CRUSH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Will",
+                            "ArtistName": "IVE",
+                            "AlbumName": "ALIVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ALIVE/Will.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SUMMER FESTA",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/SUMMER%20FESTA/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#C9FE3E",
+                    "Color2": "#42A89A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "SUMMER FESTA",
+                            "ArtistName": "IVE",
+                            "AlbumName": "SUMMER FESTA",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/SUMMER%20FESTA/SUMMER%20FESTA.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "IVE SWITCH",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/animatedCover.mp4",
+                    "Color1": "#01B4EE",
+                    "Color2": "#CA96FB",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "HEYA",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/HEYA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Accendio",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/Accendio.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Blue Heart",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/Blue%20Heart.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Ice Queen",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/Ice%20Queen.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "WOW",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/WOW.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "RESET",
+                            "ArtistName": "IVE",
+                            "AlbumName": "IVE SWITCH",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/IVE%20SWITCH/RESET.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "All Night",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/All%20Night/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#020003",
+                    "Color2": "#EF3DD3",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "All Night",
+                            "ArtistName": "IVE, Saweetie",
+                            "AlbumName": "All Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/All%20Night/All%20Night.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "I'VE MINE",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/animatedCover.mp4",
+                    "Color1": "#E53E74",
+                    "Color2": "#EF1B4B",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Off The Record",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/Off%20The%20Record.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Baddie",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/Baddie.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Either Way",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/Either%20Way.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Holy Moly",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/Holy%20Moly.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "OTT",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/OTT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Payback",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I'VE MINE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I'VE%20MINE/Payback.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "I WANT",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I%20WANT/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1E4A93",
+                    "Color2": "#F0F0F0",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "I WANT",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I WANT",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I%20WANT/I%20WANT.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "WAVE",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/WAVE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#C7001F",
+                    "Color2": "#C7001F",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "WAVE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "WAVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/WAVE/WAVE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Classic",
+                            "ArtistName": "IVE",
+                            "AlbumName": "WAVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/Wave/Classic.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "I've IVE",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/animatedCover.mp4",
+                    "Color1": "#404040",
+                    "Color2": "#F1F1F1",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Blue Blood",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Blue%20Blood.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "I AM",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/I%20AM.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Kitsch",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Kitsch.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Lips",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Lips.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Heroine",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Heroine.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Mine",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Mine.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Hypnosis",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Hypnosis.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "NOT YOUR GIRL",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/NOT%20YOUR%20GIRL.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Next Page",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Next%20Page.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Cherish",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Cherish.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Shine With Me",
+                            "ArtistName": "IVE",
+                            "AlbumName": "I've IVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/I've%20IVE/Shine%20With%20Me.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "After LIKE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/After%20LIKE/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/After%20LIKE/animatedCover.mp4",
+                    "Color1": "#000000",
+                    "Color2": "#35FF13",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "After LIKE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "After LIKE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/After%20LIKE/After%20LIKE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "My Satisfaction",
+                            "ArtistName": "IVE",
+                            "AlbumName": "After LIKE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/After%20LIKE/My%20Satisfaction.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LOVE DIVE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LOVE%20DIVE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#4FA0EF",
+                    "Color2": "#DEDEDE",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "LOVE DIVE",
+                            "ArtistName": "IVE",
+                            "AlbumName": "LOVE DIVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LOVE%20DIVE/LOVE%20DIVE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "ROYAL",
+                            "ArtistName": "IVE",
+                            "AlbumName": "LOVE DIVE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/LOVE%20DIVE/ROYAL.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "ELEVEN",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ELEVEN/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#CC094F",
+                    "Color2": "#ED1556",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2021",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "ELEVEN",
+                            "ArtistName": "IVE",
+                            "AlbumName": "ELEVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ELEVEN/ELEVEN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Take It",
+                            "ArtistName": "IVE",
+                            "AlbumName": "ELEVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/IVE/ELEVEN/Take%20It.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "ArtistName": "MADEIN",
             "Genre": "K-Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
