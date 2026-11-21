@@ -191,6 +191,36 @@
             "Color2": "#0C1828",
             "Albums": [
                 {
+                    "AlbumName": "Housewife",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/Housewife/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#2A97F6",
+                    "Color2": "#02203A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Housewife",
+                            "ArtistName": "Tate McRae",
+                            "AlbumName": "Housewife",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/refs/heads/main/Tate%20McRae/Housewife/Housewife.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
                     "AlbumName": "SO CLOSE TO WHAT??? (deluxe)",
                     "Type": "Album",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/SO%20CLOSE%20TO%20WHAT%20(deluxe)/cover.jpg",
@@ -2192,6 +2222,491 @@
                             "ArtistName": "NewJeans",
                             "AlbumName": "NewJeans 1st EP 'New Jeans'",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/Hurt.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "ILLIT",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/back.jpg",
+            "Color1": "#1F2427",
+            "Color2": "#90756A",
+            "Albums": [
+                {
+                    "AlbumName": "BREAK EVEN",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/BREAK%20EVEN/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1F2427",
+                    "Color2": "#90756A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "Latest Release",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Super in Love",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "BREAK EVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/BREAK%20EVEN/Super%20in%20Love.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "More",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "BREAK EVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/BREAK%20EVEN/More.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "You're Under Arrest",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "BREAK EVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/BREAK%20EVEN/You're%20Under%20Arrest.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Pop",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "BREAK EVEN",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/BREAK%20EVEN/Pop.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Swingin' Magic",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Swingin'%20Magic/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#AABABA",
+                    "Color2": "#23405E",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Swingin' Magic",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Swingin' Magic",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Swingin'%20Magic/Swingin'%20Magic.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "ICONIC BY MISTAKE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/ICONIC%20BY%20MISTAKE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#000000",
+                    "Color2": "#6A6A6A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "ICONIC BY MISTAKE",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "ICONIC BY MISTAKE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/ICONIC%20BY%20MISTAKE/ICONIC%20BY%20MISTAKE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "MAMIHLAPINATAPAI",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#5070A1",
+                    "Color2": "#84AFF4",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "GRWM (Get Ready With Me)",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "MAMIHLAPINATAPAI",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/GRWM%20(Get%20Ready%20With%20Me).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "It's Me",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "MAMIHLAPINATAPAI",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/It's%20Me.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "paw, paw!",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "MAMIHLAPINATAPAI",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/paw,%20paw!.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Mamihlapinatapai",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "MAMIHLAPINATAPAI",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/Mamihlapinatapai.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Love, older you",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "MAMIHLAPINATAPAI",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/MAMIHLAPINATAPAI/Love,%20older%20you.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Bubee",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Bubee/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#F6B7E4",
+                    "Color2": "#FAF0F8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Bubee",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Bubee",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Bubee/Bubee.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "NOT CUTE ANYMORE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/NOT%20CUTE%20ANYMORE/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#417C8C",
+                    "Color2": "#E4EFF3",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "NOT CUTE ANYMORE",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "NOT CUTE ANYMORE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/NOT%20CUTE%20ANYMORE/NOT%20CUTE%20ANYMORE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "NOT ME",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "NOT CUTE ANYMORE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/NOT%20CUTE%20ANYMORE/NOT%20ME.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Toki Yo Tomare",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Toki%20Yo%20Tomare/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#E45394",
+                    "Color2": "#FCFAEE",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Toki Yo Tomare",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Toki Yo Tomare",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Toki%20Yo%20Tomare/Toki%20Yo%20Tomare.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Topping",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Toki Yo Tomare",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Toki%20Yo%20Tomare/Topping.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Karitekita Neko (Do the Dance) [Japanese Ver.]",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Toki Yo Tomare",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Toki%20Yo%20Tomare/Karitekita%20Neko%20(Do%20the%20Dance)%20[Japanese%20Ver.].wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Almond Chocolate",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "Toki Yo Tomare",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/Toki%20Yo%20Tomare/Almond%20Chocolate.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "bomb",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#00213A",
+                    "Color2": "#66635C",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "little monster",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "bomb",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/little%20monster.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Billyeoon Goyangi (Do the Dance)",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "bomb",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/Billyeoon%20Goyangi%20(Do%20the%20Dance).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "jellyous",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "bomb",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/jellyous.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "oops!",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "bomb",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/oops!.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "bamsopoong",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "bomb",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/bomb/bamsopoong.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "I'LL LIKE YOU",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#94B765",
+                    "Color2": "#E7DECD",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "I'll Like You",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "I'LL LIKE YOU",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/I'll%20Like%20You.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Cherish (My Love)",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "I'LL LIKE YOU",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/Cherish%20(My%20Love).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "IYKYK (If You Know You Know)",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "I'LL LIKE YOU",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/IYKYK%20(If%20You%20Know%20You%20Know).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Pimple",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "I'LL LIKE YOU",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/Pimple.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Tick-Tack",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "I'LL LIKE YOU",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/I'LL%20LIKE%20YOU/Tick-Tack.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SUPER REAL ME",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#455554",
+                    "Color2": "#4C4C4A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "My World",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "SUPER REAL ME",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/My%20World.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Magnetic",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "SUPER REAL ME",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/Magnetic.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Midnight Fiction",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "SUPER REAL ME",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/Midnight%20Fiction.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Lucky Girl Syndrome",
+                            "ArtistName": "ILLIT",
+                            "AlbumName": "SUPER REAL ME",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/ILLIT/SUPER%20REAL%20ME/Lucky%20Girl%20Syndrome.wav",
                             "Unreleased": 0
                         }
                     ]
