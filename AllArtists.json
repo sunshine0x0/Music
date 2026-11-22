@@ -1,188 +1,7 @@
 {
-    "Update": "RESET",
+    "Update": "0",
     "Artists": "1",
     "AllArtists": [
-        {
-            "ArtistName": "Doja Cat",
-            "Genre": "Pop",
-            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/back.jpg",
-            "Color1": "#FFBD32",
-            "Color2": "#86D6FF",
-            "Albums": [
-                {
-                    "AlbumName": "Vie",
-                    "Type": "Album",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/cover.jpg",
-                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/animatedCover.mp4",
-                    "Color1": "#FFBD32",
-                    "Color2": "#86D6FF",
-                    "DoNotSpawnAlbum": false,
-                    "WhiteOutlines": false,
-                    "Timer": {
-                        "ReleaseDate": "2025",
-                        "Timer": false,
-                        "Year": 0,
-                        "Month": 0,
-                        "Day": 0,
-                        "Hour": 0,
-                        "Minute": 0,
-                        "Second": 0
-                    },
-                    "Tracks": [
-                        {
-                            "ID": 1,
-                            "TrackName": "Cards",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Cards.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 2,
-                            "TrackName": "Jealous Type",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Jealous%20Type.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 3,
-                            "TrackName": "AAAHH MEN!",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/AAAHH%20MEN!.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 4,
-                            "TrackName": "Couples Therapy",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Couples%20Therapy.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 5,
-                            "TrackName": "Gorgeous",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Gorgeous.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 6,
-                            "TrackName": "Stranger",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Stranger.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 7,
-                            "TrackName": "All Mine",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/All%20Mine.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 8,
-                            "TrackName": "Take Me Dancing (feat. SZA)",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Take%20Me%20Dancing%20(feat.%20SZA).wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 9,
-                            "TrackName": "Lipstain",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Lipstain.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 10,
-                            "TrackName": "Silly! Fun!",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Silly!%20Fun!.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 11,
-                            "TrackName": "Acts of Service",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Acts%20of%20Service.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 12,
-                            "TrackName": "Make it Up",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Make%20it%20Up.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 13,
-                            "TrackName": "Happy",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Happy.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 14,
-                            "TrackName": "One More Time",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/One%20More%20Time.wav",
-                            "Unreleased": 0
-                        },
-                        {
-                            "ID": 15,
-                            "TrackName": "Come Back",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Vie",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Come%20Back.wav",
-                            "Unreleased": 0
-                        }
-                    ]
-                },
-                {
-                    "AlbumName": "Jealous Type",
-                    "Type": "Single",
-                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/cover.jpg",
-                    "AnimatedCoverURL": "",
-                    "Color1": "#614A8D",
-                    "Color2": "#9F96C3",
-                    "DoNotSpawnAlbum": false,
-                    "WhiteOutlines": false,
-                    "Timer": {
-                        "ReleaseDate": "2025",
-                        "Timer": false,
-                        "Year": 0,
-                        "Month": 0,
-                        "Day": 0,
-                        "Hour": 0,
-                        "Minute": 0,
-                        "Second": 0
-                    },
-                    "Tracks": [
-                        {
-                            "ID": 1,
-                            "TrackName": "Jealous Type",
-                            "ArtistName": "Doja Cat",
-                            "AlbumName": "Jealous Type",
-                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
-                            "Unreleased": 0
-                        }
-                    ]
-                }
-            ]
-        },
         {
             "ArtistName": "Tate McRae",
             "Genre": "Pop",
@@ -450,6 +269,450 @@
                             "ArtistName": "Tate McRae",
                             "AlbumName": "So Close To What",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Tate%20McRae/So%20Close%20To%20What/Nostalgia.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "KATSEYE",
+            "Genre": "Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/back.jpg",
+            "Color1": "#A1A6A5",
+            "Color2": "#97866E",
+            "Albums": [
+                {
+                    "AlbumName": "WILD",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/animatedCover.mp4",
+                    "Color1": "#DFBFCE",
+                    "Color2": "#EBD6DF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "PINKY UP",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/PINKY%20UP.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Animal",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/Animal.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Hootie Frutti",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/Hootie%20Frutti.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Bel Air",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/Bel%20Air.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "That Way",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/That%20Way.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Unloveu",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "WILD",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/WILD/Unloveu.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Internet Girl",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/Internet%20Girl/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#92ABD3",
+                    "Color2": "#7C879D",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Internet Girl",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "Internet Girl",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/Internet%20Girl/Internet%20Girl.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Monster High Fright Song",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/Monster%20High%20Fright%20Song/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#323431",
+                    "Color2": "#9CFFB7",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Monster High Fright Song",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "Monster High Fright Song",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/Monster%20High%20Fright%20Song/Monster%20High%20Fright%20Song.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "BEAUTIFUL CHAOS",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/animatedCover.mp4",
+                    "Color1": "#7D908A",
+                    "Color2": "#B8935F",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Gnarly",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "BEAUTIFUL CHAOS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/Gnarly.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Gabriela",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "BEAUTIFUL CHAOS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/Gabriela.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Gameboy",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "BEAUTIFUL CHAOS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/Gameboy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Mean Girls",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "BEAUTIFUL CHAOS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/Mean%20Girls.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "M.I.A",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "BEAUTIFUL CHAOS",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/BEAUTIFUL%20CHAOS/M.I.A.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SIS (Soft Is Strong)",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/animatedCover.mp4",
+                    "Color1": "#151424",
+                    "Color2": "#6050BB",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Debut",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "SIS (Soft Is Strong)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/Debut.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Touch",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "SIS (Soft Is Strong)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/Touch.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "My Way",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "SIS (Soft Is Strong)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/My%20Way.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "I'm Pretty",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "SIS (Soft Is Strong)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/I'm%20Pretty.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Tonight I Might",
+                            "ArtistName": "KATSEYE",
+                            "AlbumName": "SIS (Soft Is Strong)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/KATSEYE/SIS%20(Soft%20Is%20Strong)/Tonight%20I%20Might.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Doja Cat",
+            "Genre": "Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/back.jpg",
+            "Color1": "#FFBD32",
+            "Color2": "#86D6FF",
+            "Albums": [
+                {
+                    "AlbumName": "Vie",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/animatedCover.mp4",
+                    "Color1": "#FFBD32",
+                    "Color2": "#86D6FF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Cards",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Cards.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Jealous Type",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Jealous%20Type.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "AAAHH MEN!",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/AAAHH%20MEN!.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Couples Therapy",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Couples%20Therapy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Gorgeous",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Gorgeous.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Stranger",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Stranger.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "All Mine",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/All%20Mine.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Take Me Dancing (feat. SZA)",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Take%20Me%20Dancing%20(feat.%20SZA).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Lipstain",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Lipstain.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Silly! Fun!",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Silly!%20Fun!.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Acts of Service",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Acts%20of%20Service.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Make it Up",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Make%20it%20Up.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Happy",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Happy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "One More Time",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/One%20More%20Time.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "Come Back",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Vie",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Vie/Come%20Back.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Jealous Type",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#614A8D",
+                    "Color2": "#9F96C3",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Jealous Type",
+                            "ArtistName": "Doja Cat",
+                            "AlbumName": "Jealous Type",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Doja%20Cat/Jealous%20Type/Jealous%20Type.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -2089,6 +2352,450 @@
                             "ArtistName": "Melanie Martinez",
                             "AlbumName": "PORTALS (Deluxe)",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/PORTALS%20(Deluxe)/MILK%20OF%20THE%20SIREN.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "After School",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/animatedCover.mp4",
+                    "Color1": "#AC747D",
+                    "Color2": "#C2A295",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2020",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Notebook",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Notebook.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Test Me",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Test%20Me.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Brain & Heart",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Brain%20&%20Heart.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Numbers",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Numbers.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Glued",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Glued.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Field Trip",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/Field%20Trip.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "The Bakery",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "After School",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/After%20School/The%20Bakery.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Fire Drill",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Fire%20Drill/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#D9A79C",
+                    "Color2": "#DC712B",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2020",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Fire Drill",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Fire Drill",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Fire%20Drill/Fire%20Drill.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Copy Cat (feat. Tierra Whack)",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Copy%20Cat%20(feat.%20Tierra%20Whack)/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#E7C2BA",
+                    "Color2": "#DF807E",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2020",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Copy Cat (feat. Tierra Whack)",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Copy Cat (feat. Tierra Whack)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Copy%20Cat%20(feat.%20Tierra%20Whack)/Copy%20Cat%20(feat.%20Tierra%20Whack).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "K-12",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/animatedCover.mp4",
+                    "Color1": "#C9C0C1",
+                    "Color2": "#EFF2F7",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2019",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Wheels On The Bus",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Wheels%20On%20The%20Bus.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Class Fight",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Class%20Fight.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "The Principal",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/The%20Principal.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Show & Tell",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Show%20&%20Tell.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Nurse's Office",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Nurse's%20Office.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Drama Club",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Drama%20Club.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Strawberry Shortcake",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Strawberry%20Shortcake.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Lunchbox Friends",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Lunchbox%20Friends.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Orange Juice",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Orange%20Juice.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Detention",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Detention.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Teacher's Pet",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Teacher's%20Pet.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "High School Sweethearts",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/High%20School%20Sweethearts.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Recess",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "K-12",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/K-12/Recess.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Gingerbread Man",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Gingerbread%20Man/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#E1C2AD",
+                    "Color2": "#C96065",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2016",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Gingerbread Man",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Gingerbread Man",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Gingerbread%20Man/Gingerbread%20Man.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Cry Baby (Deluxe Edition)",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/animatedCover.mp4",
+                    "Color1": "#CBB2C7",
+                    "Color2": "#E2DAE5",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2015",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Cry Baby",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Cry%20Baby.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Dollhouse",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Dollhouse.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Sippy Cup",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Sippy%20Cup.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Carousel",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Carousel.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Alphabet Boy",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Alphabet%20Boy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Soap",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Soap.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Training Wheels",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Training%20Wheels.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Pity Party",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Pity%20Party.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Tag, You're It",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Tag,%20You're%20It.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Milk and Cookies",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Milk%20and%20Cookies.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "Pacify Her",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Pacify%20Her.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "Mrs. Potato Head",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Mrs.%20Potato%20Head.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "Mad Hatter",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Mad%20Hatter.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "Play Date",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Play%20Date.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "Teddy Bear",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Teddy%20Bear.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "Cake",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "Cry Baby (Deluxe Edition)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/Cry%20Baby%20(Deluxe%20Edition)/Cake.wav",
                             "Unreleased": 0
                         }
                     ]
@@ -5074,6 +5781,335 @@
             ]
         },
         {
+            "ArtistName": "Hearts2Hearts",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/back.jpg",
+            "Color1": "#A29FCC",
+            "Color2": "#3F6499",
+            "Albums": [
+                {
+                    "AlbumName": "Next Chapter",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Next%20Chapter/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#A29FCC",
+                    "Color2": "#3F6499",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Next Chapter",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Next Chapter",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Next%20Chapter/Next%20Chapter.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Candy Box Lover",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Candy%20Box%20Lover/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#FFFAEE",
+                    "Color2": "#FFADCF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Candy Box Lover",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Candy Box Lover",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Candy%20Box%20Lover/Candy%20Box%20Lover.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Moonride",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Moonride/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#8FC7DE",
+                    "Color2": "#DADADC",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Moonride",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Moonride",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Moonride/Moonride.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "ICONIC HEART",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/ICONIC%20HEART/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#9D8173",
+                    "Color2": "#7B717A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "ICONIC HEART",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "ICONIC HEART",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/ICONIC%20HEART/ICONIC%20HEART.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#F8DCB3",
+                    "Color2": "#DEAA3D",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Lemon Tang",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/Lemon%20Tang.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "15-LOVE",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/15-LOVE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Baby Steps",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/Baby%20Steps.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "heart emoji (♡)",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/heart%20emoji%20(♡).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Secret Recipe",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/Secret%20Recipe.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "RUDE!",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "Lemon Tang - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/Lemon%20Tang%20-%20The%202nd%20Mini%20Album/RUDE!.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "FOCUS - The 1st Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#8FB4FB",
+                    "Color2": "#B57E9B",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "FOCUS",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "FOCUS - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/FOCUS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Apple Pie",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "FOCUS - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/Apple%20Pie.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Pretty Please",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "FOCUS - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/Pretty%20Please.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Flutter",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "FOCUS - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/Flutter.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Blue Moon",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "FOCUS - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/FOCUS%20-%20The%201st%20Mini%20Album/Blue%20Moon.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "STYLE",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/STYLE/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/STYLE/animatedCover.mp4",
+                    "Color1": "#C3F1FE",
+                    "Color2": "#9092BB",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "STYLE",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "STYLE",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/STYLE/STYLE.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "The Chase",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/The%20Chase/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#ECF5FC",
+                    "Color2": "#ACE0F5",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "The Chase",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "The Chase",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/The%20Chase/The%20Chase.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Butterflies",
+                            "ArtistName": "Hearts2Hearts",
+                            "AlbumName": "The Chase",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Hearts2Hearts/The%20Chase/Butterflies.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "ArtistName": "MADEIN",
             "Genre": "K-Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
@@ -5474,6 +6510,196 @@
                             "ArtistName": "LIMELIGHT",
                             "AlbumName": "LIMELIGHT",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Cha%20Cha.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Katy Perry",
+            "Genre": "Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/back.jpg",
+            "Color1": "#BFC6E2",
+            "Color2": "#F1FFFF",
+            "Albums": [
+                {
+                    "AlbumName": "1432",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/animatedCover.mp4",
+                    "Color1": "#BFC6E2",
+                    "Color2": "#F1FFFF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "WOMAN'S WORLD",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/WOMAN'S%20WORLD.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "GIMME GIMME (feat. 21 Savage)",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/GIMME%20GIMME%20(feat.%2021%20Savage).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "GORGEOUS (feat. Kim Petras)",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/GORGEOUS%20(feat.%20Kim%20Petras).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "I'M HIS, HE'S MINE (feat. Doechii)",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/I'M%20HIS,%20HE'S%20MINE%20(feat.%20Doechii).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "CRUSH",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/CRUSH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "LIFETIMES",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/LIFETIMES.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "ALL THE LOVE",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/ALL%20THE%20LOVE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "NIRVANA",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/NIRVANA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "ARTIFICIAL",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/ARTIFICIAL.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "TRUTH",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/TRUTH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "WONDER",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/WONDER.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "I WOKE UP",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/I%20WOKE%20UP.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "HAS A HEART",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/HAS%20A%20HEART.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "NO TEARS FOR NEW YEAR'S",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/NO%20TEARS%20FOR%20NEW%20YEAR'S.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "OK",
+                            "ArtistName": "Katy Perry",
+                            "AlbumName": "1432",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Katy%20Perry/1432/OK.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "Ava Max",
+            "Genre": "Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ava%20Max/back.jpg",
+            "Color1": "#010302",
+            "Color2": "#E45A0F",
+            "Albums": [
+                {
+                    "AlbumName": "So Am I",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ava%20Max/So%20Am%20I/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#010302",
+                    "Color2": "#E45A0F",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2020",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "So Am I",
+                            "ArtistName": "Ava Max",
+                            "AlbumName": "So Am I",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Ava%20Max/So%20Am%20I/So%20Am%20I.wav",
                             "Unreleased": 0
                         }
                     ]
