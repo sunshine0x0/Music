@@ -3951,6 +3951,1129 @@
             ]
         },
         {
+            "ArtistName": "aespa",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/back.jpg",
+            "Color1": "#F2E5EC",
+            "Color2": "#CCB3AF",
+            "Albums": [
+                {
+                    "AlbumName": "SYNK : COMPLaeXITY - 2026 Special Digital",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20COMPLaeXITY%20-%202026%20Special%20Digital/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#060606",
+                    "Color2": "#B1B5B8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "16 Bit (KARINA Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : COMPLaeXITY - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20COMPLaeXITY%20-%202026%20Special%20Digital/16%20Bit%20(KARINA%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Saddle Up (WINTER Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : COMPLaeXITY - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20COMPLaeXITY%20-%202026%20Special%20Digital/Saddle%20Up%20(WINTER%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "BYEB4HELLO (GISELLE Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : COMPLaeXITY - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20COMPLaeXITY%20-%202026%20Special%20Digital/BYEB4HELLO%20(GISELLE%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "I Love You But I Gotta Let You Go (NINGNING Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : COMPLaeXITY - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20COMPLaeXITY%20-%202026%20Special%20Digital/I%20Love%20You%20But%20I%20Gotta%20Let%20You%20Go%20(NINGNING%20Solo).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SYNK : aeXIS LINE - 2026 Special Digital",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202026%20Special%20Digital/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#88878D",
+                    "Color2": "#CACACC",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Serenade (KARINA & WINTER)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202026%20Special%20Digital/Serenade%20(KARINA%20&%20WINTER).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Lollipop (GISELLE & NINGNING)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2026 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202026%20Special%20Digital/Lollipop%20(GISELLE%20&%20NINGNING).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "KISS N TELL",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#F2E5EC",
+                    "Color2": "#CCB3AF",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "KISS N TELL",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/KISS%20N%20TELL.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Orbit Pop",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/Orbit%20Pop.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Fangirl",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/Fangirl.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "ATTITUDE",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/ATTITUDE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Done with Rules",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/Done%20with%20Rules.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "In Halo",
+                            "ArtistName": "aespa",
+                            "AlbumName": "KISS N TELL",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/KISS%20N%20TELL/In%20Halo.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "LEMONADE - The 2nd Album",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#91AB3D",
+                    "Color2": "#E1EE96",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/WDA%20(Whole%20Different%20Animal)%20[feat.%20G-DRAGON].wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "LEMONADE",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/LEMONADE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "SHAKIN'",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/SHAKIN'.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Can't Help Myself",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/Can't%20Help%20Myself.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Camouflage",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/Camouflage.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Bite",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/Bite.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Switchblade (feat. Ty Dolla $ign)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/Switchblade%20(feat.%20Ty%20Dolla%20$ign).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Roll",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/Roll.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "My Plan",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/My%20Plan.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "'Til We Die",
+                            "ArtistName": "aespa",
+                            "AlbumName": "LEMONADE - The 2nd Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/LEMONADE%20-%20The%202nd%20Album/'Til%20We%20Die.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SYNK : aeXIS LINE - 2025 Special Digital",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202025%20Special%20Digital/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#000000",
+                    "Color2": "#736F6C",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "BLUE (WINTER Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2025 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202025%20Special%20Digital/BLUE%20(WINTER%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Ketchup And Lemonade (NINGNING Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2025 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202025%20Special%20Digital/Ketchup%20And%20Lemonade%20(NINGNING%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Tornado (GISELLE Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2025 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202025%20Special%20Digital/Tornado%20(GISELLE%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "GOOD STUFF (KARINA Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : aeXIS LINE - 2025 Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20aeXIS%20LINE%20-%202025%20Special%20Digital/GOOD%20STUFF%20(KARINA%20Solo).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Rich Man - The 6th Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/animatedCover.mp4",
+                    "Color1": "#0918B3",
+                    "Color2": "#C6C865",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Rich Man",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/Rich%20Man.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Drift",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/Drift.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Bubble",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/Bubble.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Count On Me",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/Count%20On%20Me.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Angel #48",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/Angel%20#48.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "To The Girls",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Rich Man - The 6th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Rich%20Man%20-%20The%206th%20Mini%20Album/To%20The%20Girls.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Dark Arts",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Dark%20Arts/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#140F13",
+                    "Color2": "#5B5E6F",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Dark Arts",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Dark Arts",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Dark%20Arts/Dark%20Arts.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Dirty Work",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Dirty%20Work/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Dirty%20Work/animatedCover.mp4",
+                    "Color1": "#000000",
+                    "Color2": "#D6BAA4",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Dirty Work",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Dirty Work",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Dirty%20Work/Dirty%20Work.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Whiplash - The 5th Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#292929",
+                    "Color2": "#000000",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": true,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Whiplash",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Whiplash.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Kill It",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Kill%20It.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Flights, Not Feelings",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Flights,%20Not%20Feelings.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Pink Hoodie",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Pink%20Hoodie.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Flowers",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Flowers.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Just Another Girl",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Whiplash - The 5th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Whiplash%20-%20The%205th%20Mini%20Album/Just%20Another%20Girl.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "SYNK : PARALLEL LINE - Special Digital",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20PARALLEL%20LINE%20-%20Special%20Digital/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#354171",
+                    "Color2": "#5770B3",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "UP (KARINA Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : PARALLEL LINE - Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20PARALLEL%20LINE%20-%20Special%20Digital/UP%20(KARINA%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Dopamine (GISELLE Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : PARALLEL LINE - Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20PARALLEL%20LINE%20-%20Special%20Digital/Dopamine%20(GISELLE%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Bored! (NINGNING Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : PARALLEL LINE - Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20PARALLEL%20LINE%20-%20Special%20Digital/Bored!%20(NINGNING%20Solo).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Spark (WINTER Solo)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "SYNK : PARALLEL LINE - Special Digital",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/SYNK%20%20PARALLEL%20LINE%20-%20Special%20Digital/Spark%20(WINTER%20Solo).wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Hot Mess",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Hot%20Mess/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#BAE9F1",
+                    "Color2": "#F9F7F8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Hot Mess",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Hot Mess",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Hot%20Mess/Hot%20Mess.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Sun and Moon",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Hot Mess",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Hot%20Mess/Sun%20and%20Moon.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "ZOOM ZOOM",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Hot Mess",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Hot%20Mess/ZOOM%20ZOOM.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Armageddon - The 1st Album",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#BFD8AE",
+                    "Color2": "#334E21",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Supernova",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Supernova.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Armageddon",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Armageddon.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Set The Tone",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Set%20The%20Tone.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Mine",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Mine.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Licorice",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Licorice.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "BAHAMA",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/BAHAMA.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Long Chat (#♥)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Long%20Chat%20(#♥).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Prologue",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Prologue.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "Live My Life",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Live%20My%20Life.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "Melody",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Armageddon - The 1st Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Armageddon%20-%20The%201st%20Album/Melody.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "NOBODY",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/NOBODY/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#6A5D3D",
+                    "Color2": "#E9D38A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "NOBODY",
+                            "ArtistName": "SOYEON, WINTER, LIZ",
+                            "AlbumName": "NOBODY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/NOBODY/NOBODY.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Drama - The 4th Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#1A232C",
+                    "Color2": "#EB0013",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Drama",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/Drama.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Trick or Trick",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/Trick%20or%20Trick.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Don't Blink",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/Don't%20Blink.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Hot Air Balloon",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/Hot%20Air%20Balloon.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "YOLO",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/YOLO.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "You",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/You.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Better Things",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Drama - The 4th Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Drama%20-%20The%204th%20Mini%20Album/Better%20Things.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "MY WORLD - The 3rd Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/animatedCover.mp4",
+                    "Color1": "#364F6D",
+                    "Color2": "#09BB63",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Welcome To MY World (feat. nævis)",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/Welcome%20To%20MY%20World%20(feat.%20nævis).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Spicy",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/Spicy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Salty & Sweet",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/Salty%20&%20Sweet.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Thirsty",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/Thirsty.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "I'm Unhappy",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/I'm%20Unhappy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "'Til We Meet Again",
+                            "ArtistName": "aespa",
+                            "AlbumName": "MY WORLD - The 3rd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album/'Til%20We%20Meet%20Again.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Tetris (Motion Picture Soundtrack)",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Tetris%20(Motion%20Picture%20Soundtrack)/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#57182D",
+                    "Color2": "#E4E4D8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Hold On Tight",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Tetris (Motion Picture Soundtrack)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Tetris%20(Motion%20Picture%20Soundtrack)/Hold%20On%20Tight.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Girls - The 2nd Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/animatedCover.mp4",
+                    "Color1": "#010101",
+                    "Color2": "#5D5199",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2022",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Girls",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Girls.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Illusion",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Illusion.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Lingo",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Lingo.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Life's Too Short",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Life's%20Too%20Short.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "ICU",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/ICU.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Black Mamba",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Black%20Mamba.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "Forever",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Forever.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "Dreams Come True",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Girls - The 2nd Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Girls%20-%20The%202nd%20Mini%20Album/Dreams%20Come%20True.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Savage - The 1st Mini Album",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/animatedCover.mp4",
+                    "Color1": "#84C5ED",
+                    "Color2": "#6482B8",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2021",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "aenergy",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/aenergy.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Savage",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/Savage.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "I'll Make You Cry",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/I'll%20Make%20You%20Cry.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "YEPPI YEPPI",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/YEPPI%20YEPPI.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "ICONIC",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/ICONIC.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Lucid Dream",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Savage - The 1st Mini Album",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Savage%20-%20The%201st%20Mini%20Album/Lucid%20Dream.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Next Level",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Next%20Level/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#703233",
+                    "Color2": "#F9D9B0",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2021",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Next Level",
+                            "ArtistName": "aespa",
+                            "AlbumName": "Next Level",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/aespa/Next%20Level/Next%20Level.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "ArtistName": "MADEIN",
             "Genre": "K-Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
