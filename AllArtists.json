@@ -1744,9 +1744,175 @@
             "ArtistName": "Melanie Martinez",
             "Genre": "Alternative",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/back.jpg",
-            "Color1": "#CEA7AC",
-            "Color2": "#8E715F",
+            "Color1": "#B98166",
+            "Color2": "#DEB78E",
             "Albums": [
+                {
+                    "AlbumName": "HADES",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/cover.jpg",
+                    "AnimatedCoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/animatedCover.mp4",
+                    "Color1": "#B98166",
+                    "Color2": "#DEB78E",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "GARBAGE",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/GARBAGE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "IS THIS A CULT?",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/IS%20THIS%20A%20CULT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "POSSESSION",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/POSSESSION.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "WHITE BOY WITH A GUN",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/WHITE%20BOY%20WITH%20A%20GUN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "DISNEY PRINCESS",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/DISNEY%20PRINCESS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "GRUDGES",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/GRUDGES.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 7,
+                            "TrackName": "MONOPOLY MAN",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/MONOPOLY%20MAN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 8,
+                            "TrackName": "AVOIDANT",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/AVOIDANT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 9,
+                            "TrackName": "MONOLITH",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/MONOLITH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 10,
+                            "TrackName": "WEIGHT WATCHERS",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/WEIGHT%20WATCHERS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 11,
+                            "TrackName": "THE PLAGUE",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/THE%20PLAGUE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 12,
+                            "TrackName": "BATSHIT INTELLIGENCE",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/BATSHIT%20INTELLIGENCE.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 13,
+                            "TrackName": "GUTTER",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/GUTTER.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 14,
+                            "TrackName": "UNCANNY VALLEY",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/UNCANNY%20VALLEY.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 15,
+                            "TrackName": "THE VATICAN",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/THE%20VATICAN.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 16,
+                            "TrackName": "HELL'S FRONT PORCH",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/HELL'S%20FRONT%20PORCH.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 17,
+                            "TrackName": "CHATROOM",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/CHATROOM.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 18,
+                            "TrackName": "THE LAST TWO PEOPLE ON EARTH",
+                            "ArtistName": "Melanie Martinez",
+                            "AlbumName": "HADES",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/Melanie%20Martinez/HADES/THE%20LAST%20TWO%20PEOPLE%20ON%20EARTH.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
                 {
                     "AlbumName": "POSSESSION",
                     "Type": "Single",
@@ -1757,7 +1923,7 @@
                     "DoNotSpawnAlbum": false,
                     "WhiteOutlines": false,
                     "Timer": {
-                        "ReleaseDate": "Latest Release",
+                        "ReleaseDate": "2026",
                         "Timer": false,
                         "Year": 0,
                         "Month": 0,
@@ -2013,6 +2179,36 @@
                     ]
                 },
                 {
+                    "AlbumName": "MY DEMON, Pt. 1 (Original Soundtrack)",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/MY%20DEMON,%20Pt.%201%20(Original%20Soundtrack)/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#EECEBF",
+                    "Color2": "#315A4C",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Our Night is more beautiful than your Day",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "MY DEMON, Pt. 1 (Original Soundtrack)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/MY%20DEMON,%20Pt.%201%20(Original%20Soundtrack)/Our%20Night%20is%20more%20beautiful%20than%20your%20Day.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
                     "AlbumName": "GODS",
                     "Type": "Single",
                     "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/GODS/cover.jpg",
@@ -2038,6 +2234,36 @@
                             "ArtistName": "NewJeans",
                             "AlbumName": "GODS",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/GODS/GODS.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Beautiful Restriction (from 'A Time Called You') [Music from The Netflix Series]",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Beautiful%20Restriction%20(from%20'A%20Time%20Called%20You')%20[Music%20from%20The%20Netflix%20Series]/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#ABB3A8",
+                    "Color2": "#474842",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Beautiful Restriction (from 'A Time Called You') [Music from The Netflix Series]",
+                            "ArtistName": "NewJeans",
+                            "AlbumName": "Beautiful Restriction (from 'A Time Called You') [Music from The Netflix Series]",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/NewJeans/Beautiful%20Restriction%20(from%20'A%20Time%20Called%20You')%20[Music%20from%20The%20Netflix%20Series]/Beautiful%20Restriction%20(from%20'A%20Time%20Called%20You')%20[Music%20from%20The%20Netflix%20Series].wav",
                             "Unreleased": 0
                         }
                     ]
