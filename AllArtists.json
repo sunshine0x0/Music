@@ -6110,6 +6110,77 @@
             ]
         },
         {
+            "ArtistName": "TUIDE",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/back.jpg",
+            "Color1": "#ED6D40",
+            "Color2": "#DDE1E4",
+            "Albums": [
+                {
+                    "AlbumName": "TUNE & PLAY",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#ED6D40",
+                    "Color2": "#DDE1E4",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "ABD",
+                            "ArtistName": "TUIDE",
+                            "AlbumName": "TUNE & PLAY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/ABD.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "SUN KISS",
+                            "ArtistName": "TUIDE",
+                            "AlbumName": "TUNE & PLAY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/SUN%20KISS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Echo",
+                            "ArtistName": "TUIDE",
+                            "AlbumName": "TUNE & PLAY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/Echo.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Flip-Flop Girl",
+                            "ArtistName": "TUIDE",
+                            "AlbumName": "TUNE & PLAY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/Flip-Flop%20Girl.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "GRLS",
+                            "ArtistName": "TUIDE",
+                            "AlbumName": "TUNE & PLAY",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/TUIDE/TUNE%20&%20PLAY/GRLS.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "ArtistName": "MADEIN",
             "Genre": "K-Pop",
             "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/back.jpg",
@@ -6510,6 +6581,467 @@
                             "ArtistName": "LIMELIGHT",
                             "AlbumName": "LIMELIGHT",
                             "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/MADEIN/LIMELIGHT/Cha%20Cha.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ArtistName": "FIFTY FIFTY",
+            "Genre": "K-Pop",
+            "BackgroundURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/back.jpg",
+            "Color1": "#C1BC78",
+            "Color2": "#E5FC8A",
+            "Albums": [
+                {
+                    "AlbumName": "Imperfect-I'mperfect",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#C1BC78",
+                    "Color2": "#E5FC8A",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "STARSTRUCK",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/STARSTRUCK.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Like a Bubble",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/Like%20a%20Bubble.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Took It Too Far",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/Took%20It%20Too%20Far.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "PERFECT",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/PERFECT.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Genie Magic",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/Genie%20Magic.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Carry On",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Imperfect-I'mperfect",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Imperfect-I'mperfect/Carry%20On.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Wish You Were Here",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Wish%20You%20Were%20Here/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#4F514E",
+                    "Color2": "#716056",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Wish You Were Here",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Wish You Were Here",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Wish%20You%20Were%20Here/Wish%20You%20Were%20Here.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Spring Fever, Pt. 7 (Original Soundtrack)",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Spring%20Fever,%20Pt.%207%20(Original%20Soundtrack)/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#9B915E",
+                    "Color2": "#9ABF9D",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2026",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Still In Time",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Spring Fever, Pt. 7 (Original Soundtrack)",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Spring%20Fever,%20Pt.%207%20(Original%20Soundtrack)/Still%20In%20Time.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Oops, My Bad (From 'Operation: True Love')",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Oops%2C%20My%20Bad%20(From%20'Operation%20True%20Love')/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#F4AEB8",
+                    "Color2": "#F7CFD7",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Oops, My Bad",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Oops, My Bad (From 'Operation: True Love')",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Oops%2C%20My%20Bad%20(From%20'Operation%20True%20Love')/Oops,%20My%20Bad.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Too Much Part 1",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Too%20Much%20Part%201/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#2D3832",
+                    "Color2": "#3C3944",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Eeny meeny miny moe",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Too Much Part 1",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Too%20Much%20Part%201/Eeny%20meeny%20miny%20moe.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Skittlez",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Too Much Part 1",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Too%20Much%20Part%201/Skittlez.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "TAKE MY HAND",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/TAKE%20MY%20HAND/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#463930",
+                    "Color2": "#80A5C0",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "TAKE MY HAND",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "TAKE MY HAND",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/TAKE%20MY%20HAND/TAKE%20MY%20HAND.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Day & Night",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#9B7ECE",
+                    "Color2": "#C36DAA",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2025",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Pookie",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/Pookie.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "ADONIS",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/ADONIS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Work of Art",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/Work%20of%20Art.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Perfect Crime",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/Perfect%20Crime.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Heartbreak",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/Heartbreak.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 6,
+                            "TrackName": "Midnight Special",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Day & Night",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Day%20&%20Night/Midnight%20Special.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Winter Glow",
+                    "Type": "Single",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Winter%20Glow/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#87A8DD",
+                    "Color2": "#39485F",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "When You Say My Name",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Winter Glow",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Winter%20Glow/When%20You%20Say%20My%20Name.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Naughty or Nice",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Winter Glow",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Winter%20Glow/Naughty%20or%20Nice.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "Love Tune",
+                    "Type": "EP",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Love%20Tune/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#DB85A8",
+                    "Color2": "#5F3944",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2024",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Push Your Love",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Love Tune",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Love%20Tune/Push%20Your%20Love.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Starry Night",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Love Tune",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Love%20Tune/Starry%20Night.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "SOS",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Love Tune",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Love%20Tune/SOS.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Gravity",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "Love Tune",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/Love%20Tune/Gravity.wav",
+                            "Unreleased": 0
+                        }
+                    ]
+                },
+                {
+                    "AlbumName": "The Beginning",
+                    "Type": "Album",
+                    "CoverURL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/cover.jpg",
+                    "AnimatedCoverURL": "",
+                    "Color1": "#FE3523",
+                    "Color2": "#FF9288",
+                    "DoNotSpawnAlbum": false,
+                    "WhiteOutlines": false,
+                    "Timer": {
+                        "ReleaseDate": "2023",
+                        "Timer": false,
+                        "Year": 0,
+                        "Month": 0,
+                        "Day": 0,
+                        "Hour": 0,
+                        "Minute": 0,
+                        "Second": 0
+                    },
+                    "Tracks": [
+                        {
+                            "ID": 1,
+                            "TrackName": "Cupid (Twin Version)",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "The Beginning",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/Cupid%20(Twin%20Version).wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 2,
+                            "TrackName": "Lovin' Me",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "The Beginning",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/Lovin'%20Me.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 3,
+                            "TrackName": "Tell Me",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "The Beginning",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/Tell%20Me.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 4,
+                            "TrackName": "Higher",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "The Beginning",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/Higher.wav",
+                            "Unreleased": 0
+                        },
+                        {
+                            "ID": 5,
+                            "TrackName": "Log in",
+                            "ArtistName": "FIFTY FIFTY",
+                            "AlbumName": "The Beginning",
+                            "URL": "https://raw.githubusercontent.com/sunshine0x0/Music/main/FIFTY%20FIFTY/The%20Beginning/Log%20in.wav",
                             "Unreleased": 0
                         }
                     ]
